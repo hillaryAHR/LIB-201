@@ -9,8 +9,25 @@ The majority of the contents of the Ellard-Murphree-Pilgreen-Smith Collection (r
 <a href="https://smithpapers.github.io/about">Read more on the Smith Family members</a>, or <a href="https://smithpapers.github.io/subjects.html">read more about the content of the letters</a>. 
 
 ## About the Process
+
+### Tracking Progress
 Members of LIB 201 and the Smith Papers Working Group at MUW Fant Memorial Library have worked in tandem to learn about the Smith Family and digitize this collection. With each of these steps, we use Asana to mark and track our progress. If you haven't been added to the <a href="https://app.asana.com/0/1198178250630033/list">Asana project</a>, ask someone involved or email the project manager to get access. 
 
+<b>Creating a Task in Asana</b>
+
+Each letter becomes a task in Asana, and each subtask tracks the progress of each step of the process of digitizing and uploading the letters to Athena Commons. 
+1. Name the task using the mcj-dp018 convention used in the metadata
+2. Click on the name of the task to open it and click on the add subtask button
+3. Add subtasks titled:
+    Metadata in Google Sheet
+    Review metadata for quality control
+    Transcribe/Add Tags
+    Review Transcription and Tags for Quality Control
+    Upload to Athena Commons
+    Upload transcript to Athena Commons
+As you work on each letter and complete these steps, assign it to yourself, then mark it complete when you're done so everyone working on the project has an up-to-date record of what progress has been made.
+
+### Main steps
 Involved in this process are these main steps:
 1. <b>Scan the letters</b>. This is done mainly with the Bookeye scanner in the Mims Digitization Lab, but the Epson scanner has also been used. Scanning also includes ensuring the quality of the digital image through cropping, deskewing, and image correction through color/light adjustments. The ***3 files*** that are created are saved to the Archives hard drive, the LibArchives (R:) drive, and the shared Smith Papers Google Drive folder. The files that are saved from this are:
     * a PDF user copy
