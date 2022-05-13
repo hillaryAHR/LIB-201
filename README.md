@@ -19,12 +19,13 @@ Each letter becomes a task in Asana, and each subtask tracks the progress of eac
 1. Name the task using the mcj-dp018 convention used in the metadata
 2. Click on the name of the task to open it and click on the add subtask button
 3. Add subtasks titled:
-    Metadata in Google Sheet
-    Review metadata for quality control
-    Transcribe/Add Tags
-    Review Transcription and Tags for Quality Control
-    Upload to Athena Commons
-    Upload transcript to Athena Commons
+    * Metadata in Google Sheet
+    * Review metadata for quality control
+    * Transcribe/Add Tags
+    * Review Transcription and Tags for Quality Control
+    * Upload to Athena Commons
+    * Upload transcript to Athena Commons
+
 As you work on each letter and complete these steps, assign it to yourself, then mark it complete when you're done so everyone working on the project has an up-to-date record of what progress has been made.
 
 ### Main steps
