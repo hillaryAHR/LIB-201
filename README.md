@@ -8,6 +8,8 @@ The majority of the contents of the Ellard-Murphree-Pilgreen-Smith Collection (r
 
 <a href="https://smithpapers.github.io/about">Read more on the Smith Family members</a>, or <a href="https://smithpapers.github.io/subjects.html">read more about the content of the letters</a>. 
 
+For more context about the collection, <a href="https://youtu.be/zPynkw9V-Q8">watch an interview with Dr. Bridget Pieschel and Steve Pieschel</a>, donors of the Smith Papers.
+
 ## About the Process
 
 ### Tracking Progress
