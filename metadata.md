@@ -146,7 +146,7 @@ Some of these fields are consistent, and will say one thing, or just be limited 
 ## Check-in
 Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields at the next check-in.
 
-<a href="https://github.com/hillaryAHR/LIB-201/blob/main/smith-papers-files/mcj-dp018-19381010-smith-martha-001.pdf" type="application/pdf" width="100%" height="500px"> Click here to access the letter</a> 
+<a href="https://drive.google.com/file/d/1o8SgzeV3L25o1e83y_uvMR0yYYOvmKat/view?usp=sharing"> Click here to access the letter</a> 
 
 Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75437">3.Metadata check-in</a> here. 
 
