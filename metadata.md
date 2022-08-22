@@ -67,7 +67,7 @@ In other words, our metadata standards give guidelines for how to treat the 100+
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/metadata-guidelines.jpg" alt="different ways to write the same name" width="" height="">
 
-Open our <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
+Open our <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQCDpZ/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
 
 ## Check-in
 
@@ -75,7 +75,7 @@ Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75442">2
 
 # 3. Metadata Guidelines for the Smith Papers
 
-As you noticed in the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> guidelines for the Smith Collection</a>, we have a BUNCH of fields to describe one letter:
+As you noticed in the <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQCDpZ/view?usp=sharing"> guidelines for the Smith Collection</a>, we have a BUNCH of fields to describe one letter:
 
 <table>
     <tr>
@@ -144,7 +144,7 @@ And lastly, some of them capture information about the digitization process, in 
 Some of these fields are consistent, and will say one thing, or just be limited to one of select options (e.g. Capture Method, Digital Repository, Resource Type, etc.). And some will require _your_ discretion (e.g. Description, Subject Heading, etc.)
 
 ## Check-in
-Using the letter below and the <a href="https://drive.google.com/file/d/16VIQ4KxbBbFnjnrbgR-Uv1t1H0_xSgWG/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields at the next check-in.
+Using the letter below and the <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQCDpZ/view?usp=sharing"> full guidelines </a>, enter the metadata you'd create for the given fields at the next check-in.
 
 <a href="https://drive.google.com/file/d/1o8SgzeV3L25o1e83y_uvMR0yYYOvmKat/view?usp=sharing"> Click here to access the letter</a> 
 
@@ -237,7 +237,7 @@ You won't always be working on the collection at the same time, so how do you ta
 Last, but not least, it's important to consider the principals under which you'll operate as a cohesive group. Clearly, this is a class, but many projects are defined at the outset by practices that its members adopt and value as a group. We will dicuss what values encompass how we collaborate together. In the meantime, consider some values statements from the following projects:
 
 * <a href="https://coloredconventions.org/about/principles/">Colored Conventions Projects Values Statement</a>
-* <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>
+<!--* <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>-->
 * <a href="http://www.scottbot.net/HIAL/index.html@p=6336.html">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
