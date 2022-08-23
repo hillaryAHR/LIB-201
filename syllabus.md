@@ -30,6 +30,8 @@ This class is not unlike a traditional introduction to research class. We will p
 * A notebook/writing utensil
 * Software/applications: (all are free and online)
     * Google Drive (use your myapps email)
+    * Microsoft Teams (use your app in Office 365, via WConnect)
+    * <a href="https://asana.com/">Asana</a> (This is a free, browser application that you'll receive an invite to)
     * <a href="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</a> (Installation instructions found <a href="https://readcoop.eu/transkribus/howto/how-to-download-install-and-run-transkribus/">here</a>)
     * <a href="https://code.visualstudio.com/">Visual Studio Code</a> (Installation instructions found <a href="https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/">here</a>)
     * <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> (No installation necessary; browser application)

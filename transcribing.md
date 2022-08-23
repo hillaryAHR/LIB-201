@@ -26,14 +26,14 @@ In this module, you will learn:
 * <a href="https://docs.google.com/document/d/1Vo_YCCW18aam14CnAG8KyYYDlV37zODsFaqP_6_Flgk/edit?usp=sharing">"About the Smith Papers Collection."</a> This document gives context for the letters and describes the main contributors. Read this before you begin transcribing. 
 
 ### Installations
-* Transkribus: https://readcoop.eu/transkribus/?sc=Transkribus (<a href="https://readcoop.eu/transkribus/wiki/download-and-installation/">Installation Instructions here.</a> Be sure you have Java 8 installed before installing Transkribus. This is in the instructions, but not in the first step. If you run into an issue, email your instructor!)
+* Transkribus: https://readcoop.eu/transkribus/?sc=Transkribus (<a href="https://readcoop.eu/transkribus/wiki/download-and-installation/">Installation Instructions here.</a> *Be sure you have Java 8 installed before installing Transkribus.* This is in the instructions, but not in the first step. If you run into an issue, email your instructor!)
 
 ## Further reading (optional)
 *  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/.
 * Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions
 * YouTube video of Hillary introducing Transkribus: https://youtu.be/szGPn0K_WWE
 * YouTube video of Hillary transcribing a letter from beginning to end: https://youtu.be/-cDD9P0rnLw 
-
+* Interview with Bridget and Steve Pieschel about the contents of the Smith Papers letters: https://youtu.be/zPynkw9V-Q8
 
 # 1. Transcribing Guidelines
 

@@ -237,7 +237,7 @@ You won't always be working on the collection at the same time, so how do you ta
 Last, but not least, it's important to consider the principals under which you'll operate as a cohesive group. Clearly, this is a class, but many projects are defined at the outset by practices that its members adopt and value as a group. We will dicuss what values encompass how we collaborate together. In the meantime, consider some values statements from the following projects:
 
 * <a href="https://coloredconventions.org/about/principles/">Colored Conventions Projects Values Statement</a>
-<!--* <a href="http://librev.info/principles-conduct.php">LibRev Code of Conduct</a>-->
+* <a href="https://docs.google.com/document/d/1jJKW2_rnns0NAUsn6H0t3vxMiUgoeNvkVj2Bf6uuWZk/edit?usp=sharing">Smith Papers Project and Data Management Plan</a>
 * <a href="http://www.scottbot.net/HIAL/index.html@p=6336.html">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
