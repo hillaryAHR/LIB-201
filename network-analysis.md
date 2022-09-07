@@ -176,15 +176,15 @@ Luckily, we have done a lot of that work already, and in this class, you won't b
 
 When you export tags from Transkribus, you get a folder that corresponds to each item, and in that folder, a spreadsheet of tags. 
 
-p><img src="" alt="screenshot of a folder containing 346 folders" width="" height="" /></p>
+p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/export-job-screenshot.png" alt="screenshot of a folder containing 346 folders" width="" height="" /></p>
 
 These files, individually, do not help us answer our research question! So we have to combine them and clean them in order to see all the senders, recipients, and people mentioned in the letters. Rather than open and inspect each file, copy all of its contents, and paste it into a new file, we are using automated functions in Excel to combine the data before we clean and examine our data. Assuming all the data in these files is uniform (and in several cases, <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">they aren't!</a>), Excel should combine the sheets into one file, going from this...
 
-p><img src="" alt="screenshot of the 'get data from folder' function in Excel" width="" height="" /></p>
+p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/import-data.png" alt="screenshot of the 'get data from folder' function in Excel" width="" height="" /></p>
 
 ...to this...
 
-p><img src="" alt="screenshot of an Excel spreadsheet with combined data from the tags export" width="" height="" /></p>
+p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/combined-tags-screenshot.png" alt="screenshot of an Excel spreadsheet with combined data from the tags export" width="" height="" /></p>
 
 Using this <a href="https://docs.google.com/spreadsheets/d/1tCNe4RuHvVql7OsBKdqv3wc1KWj9vdKxcYBRtLykawY/edit?usp=sharing"> Tags_Uncleaned_20220830</a> sheet, you will be adding the tags you've exported to this sheet, then doing some data clean-up. Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
 
