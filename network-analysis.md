@@ -53,7 +53,7 @@ Another thing to consider when making highly visual graphs is how accessible you
 
 ## Check-in 
 
-Click and log in to Canvas for the <a href="https://muw.instructure.com/courses/17249/quizzes/65104"> 0.Network Analysis check-in</a>. For students in HO 303, complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65844">0.Network Analysis check-in</a> here.
+Before we keep going, click and log in to Canvas for the <a href="https://muw.instructure.com/courses/19030/quizzes/75435"> 0.Network Analysis check-in</a>.
 
 ### Acknowledgements
 * Lecture notes from Dr. Katayoun Torabi, Programming for Humanists Instructor, Center of Digital Humanities Research at Texas A&M University. http://programming4humanists.tamu.edu/
@@ -94,7 +94,7 @@ Paths are the length from one node to the next. In this image, the path length f
 
 ## Check-in
 
-Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65105">1.Network Analysis</a> check-in. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65839">1.Network Analysis check-in here</a>
+Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75440">1.Network Analysis</a> check-in.
 
 # 2. Analyzing relational data
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
@@ -145,7 +145,7 @@ This is the last metric to consider here, and it's essentially an algorithm that
 Whew! That's it.-->
 
 ## Check-in
-Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/17249/quizzes/65106">2.Network Analysis</a> check in. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65846">2.Network Analysis check-in</a> here.
+Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75455">2.Network Analysis</a> check in.
 
 # 3. Data Modeling for Visualizing a Network
 
@@ -164,7 +164,7 @@ In this graph, each column heading (the variables) has one observation (the info
 Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
 
 ## Check in
-Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/17249/quizzes/65107">3.Network Analysis Check-in</a>. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/65841">3.Network Analysis check-in</a> here. <!--should I take this part out for the HO 303 students?-->
+Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/19030/quizzes/75444">3.Network Analysis Check-in</a>.
 
 ## Cleaning Data
 
@@ -172,28 +172,35 @@ Wouldn't it be nice if you could just copy and paste some names in a list into a
 
 > It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data (Dasu and Johnson 2003). Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
 
-Luckily, we have done a lot of that work already, and in this class, you won't be starting from scratch, but you will be adding to it, then doing some of your own restructuring. Here's what we have so far: 
-* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. You will be adding to this spreadsheet with letters that you transcribed. <!--more on that process?-->
-* <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added another layer of structure to those tags.
+Luckily, we have done a lot of that work already, and in this class, you won't be starting from scratch, but let's look at the labor that comes with cleaning and preparing data from the beginning.
 
-Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
+When you export tags from Transkribus, you get a folder that corresponds to each item, and in that folder, a spreadsheet of tags. 
+
+p><img src="" alt="screenshot of a folder containing 346 folders" width="" height="" /></p>
+
+These files, individually, do not help us answer our research question! So we have to combine them and clean them in order to see all the senders, recipients, and people mentioned in the letters. Rather than open and inspect each file, copy all of its contents, and paste it into a new file, we are using automated functions in Excel to combine the data before we clean and examine our data. Assuming all the data in these files is uniform (and in several cases, <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">they aren't!</a>), Excel should combine the sheets into one file, going from this...
+
+p><img src="" alt="screenshot of the 'get data from folder' function in Excel" width="" height="" /></p>
+
+...to this...
+
+p><img src="" alt="screenshot of an Excel spreadsheet with combined data from the tags export" width="" height="" /></p>
+
+Using this <a href="https://docs.google.com/spreadsheets/d/1tCNe4RuHvVql7OsBKdqv3wc1KWj9vdKxcYBRtLykawY/edit?usp=sharing"> Tags_Uncleaned_20220830</a> sheet, you will be adding the tags you've exported to this sheet, then doing some data clean-up. Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
 
 1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>)
-2. Copy and paste the names of people in the tags as transposed data into the ongoing "Name Tags - Unstructured" sheet, so we have a list of all letters and those who are named. (<a href="https://drive.google.com/file/d/1Oaxu__l8hu0pOwPaEnhIV4q43lCp5-8D/view">Watch this in a video here.</a>):
-     * Highlight the column of names in the sheet of exported tags and copy them
-     * In the Unstructured tags sheet, enter the sender and recipient, then paste the names in the first column under person 1. This will look strange at first! But we haven't transposed them yet...
-     * Cut this list you just pasted, and then paste them again using the Paste Special > Paste Transposed option. Ta da!
-3. Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>):  
-     * De-duplicate names that appear more than once, since you just want one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!)
-     * Replace _known_ names with their authority control names (Last name, First name)  or reconcile names that are slightly different (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency. We have identified some people by first name and context, and listed them in <a href="https://docs.google.com/spreadsheets/d/1YJeDKaSWJwYFjgCT7rvsQgo52mrRe7ibo9Uqh7BS9qE/edit?usp=sharing">this Google Sheet.</a>
-     * If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!). Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum!
+2. Copy and past the names of the senders, recipients, and people from your letters to the sheet.
+3. Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>) by:  
+     * de-duplicating names that appear more than once, so you include one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!). To do this, copy the column into another sheet, and click on ```Remove Duplicates``` under Data.
+     * sorting names A-Z, and reconciling names that are extremely similar in spelling (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency.
+     * replacing _known_ names with their authority control names (i.e. "mother" with "Smith, Edith Pauline). We have identified some people by first name and context, and listed them in <a href="https://docs.google.com/spreadsheets/d/1YJeDKaSWJwYFjgCT7rvsQgo52mrRe7ibo9Uqh7BS9qE/edit?usp=sharing">this Google Sheet.</a>
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/tag-cleaning.png" alt="spreadsheet screenshot of similar names, including Bro. Brealand and Bro Breland" width="" height="">
 
-This process will take a while, but remember, that is normal! Give yourself time, and take plenty of breaks!  
+If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!) who they are or are not. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum! This process will take a while and feel repetitive, but remember, that is normal. Give yourself time, and take plenty of breaks.
 
 ## Check-in
-Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/17249/quizzes/67276>Check-in 3a.Network Analysis</a> here. (HO 303 students do not need to complete this check-in!)
+Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/19030/quizzes/75457>Check-in 3a.Network Analysis</a> here. 
 
 # 4. Software for visualizing a network analysis
 
@@ -250,4 +257,4 @@ Once you've verified the data and gone back to clean any leftover issues, it's t
 There are also Palladio's own Tutorials and FAQs for <a href="http://hdlab.stanford.edu/palladio/tutorials/data/">loading data</a> and <a href="http://hdlab.stanford.edu/palladio/tutorials/graph/">customizing a graph</a>. Both of which are helpful!
 
 ## Check-in
-Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/17249/quizzes/67304">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67305">4.Network Analysis check-in</a> here.
+Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/19030/quizzes/75450">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project.
