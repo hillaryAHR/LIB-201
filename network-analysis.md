@@ -180,27 +180,30 @@ p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lec
 
 These files, individually, do not help us answer our research question! So we have to combine them and clean them in order to see all the senders, recipients, and people mentioned in the letters. Rather than open and inspect each file, copy all of its contents, and paste it into a new file, we are using automated functions in Excel to combine the data before we clean and examine our data. Assuming all the data in these files is uniform (and in several cases, <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">they aren't!</a>), Excel should combine the sheets into one file, going from this...
 
-p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/import-data.png" alt="screenshot of the 'get data from folder' function in Excel" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/import-data.png" alt="screenshot of the 'get data from folder' function in Excel" width="" height="" /></p>
 
 ...to this...
 
-p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/combined-tags-screenshot.png" alt="screenshot of an Excel spreadsheet with combined data from the tags export" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/combined-tags-screenshot.png" alt="screenshot of an Excel spreadsheet with combined data from the tags export" width="" height="" /></p>
 
-Using this <a href="https://docs.google.com/spreadsheets/d/1tCNe4RuHvVql7OsBKdqv3wc1KWj9vdKxcYBRtLykawY/edit?usp=sharing"> Tags_Uncleaned_20220830</a> sheet, you will be adding the tags you've exported to this sheet, then doing some data clean-up. Here are the steps you'll need to take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
+After combining these tags, we then add a layer of structure, so that our data will model the question we're asking: how can we use the letters to get an idea of the people in the Smiths' network? Using the <a href="https://docs.google.com/spreadsheets/d/1kB8T4NGGUat5enGtTouvO4K0SxhQAVLU/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">combined tags sheet</a>, we created the <a href="https://docs.google.com/spreadsheets/d/1pXrEV-Ny5WzDHgn2fyZhbSbetRR8oQGh/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">structured tags sheet</a>. Now we can start adding newly transcribed tags and cleaning them.
 
-1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>)
-2. Copy and past the names of the senders, recipients, and people from your letters to the sheet.
-3. Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>) by:  
-     * de-duplicating names that appear more than once, so you include one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!). To do this, copy the column into another sheet, and click on ```Remove Duplicates``` under Data.
+There are lots of ways to clean a spreadsheet - some complex and some simple. Here the recommended steps you can take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
+
+1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>) *Hint: you have already done this step in the data prep assignment*
+2. Copy and past the names of the senders, recipients, and people from your letters to the "combined tags" sheet.
+3. Open the "structured tags" sheet and add your tags here in the appropriate columns.
+4. Now it's time to clean! I recommend doing these steps in a separate sheet, so you don't accidentally lose any data. Remember: Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>) by:  
      * sorting names A-Z, and reconciling names that are extremely similar in spelling (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency.
      * replacing _known_ names with their authority control names (i.e. "mother" with "Smith, Edith Pauline). We have identified some people by first name and context, and listed them in <a href="https://docs.google.com/spreadsheets/d/1YJeDKaSWJwYFjgCT7rvsQgo52mrRe7ibo9Uqh7BS9qE/edit?usp=sharing">this Google Sheet.</a>
+     * de-duplicating names that appear more than once per letter, so you include only one representation of that person. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!). To do this, copy the column into another sheet, and click on ```Remove Duplicates``` under Data. Paste your de-duplicated list back into the rows associated with that letter, and delete the empty rows.
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/tag-cleaning.png" alt="spreadsheet screenshot of similar names, including Bro. Brealand and Bro Breland" width="" height="">
 
 If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!) who they are or are not. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum! This process will take a while and feel repetitive, but remember, that is normal. Give yourself time, and take plenty of breaks.
 
 ## Check-in
-Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/19030/quizzes/75457>Check-in 3a.Network Analysis</a> here. 
+Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/19030/quizzes/75457>Check-in 3a.Network Analysis</a> here. For an example of detailing this process, see the <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">tags README</a> file.
 
 # 4. Software for visualizing a network analysis
 
