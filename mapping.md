@@ -75,7 +75,7 @@ Secondary sources are usually interpretive, aren't usually published, posted, or
 * ...and more!
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67384">1a.Mapping check-in</a> on primary and secondary sources. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67387">1a.Mapping check-in</a> here. 
+Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75446">1a.Timeline check-in</a> on primary and secondary sources. 
 
 ## Finding Resources
 Now that we've figured out the differences between primary and secondary sources, you will use this information to choose sources in different places. For our upcoming projects, we will look in several places, including, but not limited to:
@@ -95,7 +95,7 @@ To help with research topics, resources, and relevant websites, MUW faculty and 
 
 ### Check-in
 
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67385">1b.Mapping check-in</a> on finding resources here. Students in HO 303 can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67389">1b.Mapping check-in</a> here. 
+Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75434">1b.Mapping check-in</a> on finding resources here.
 
 ## Evaluating resources:
 
@@ -107,9 +107,9 @@ By now, you know that not everything you find on the internet is worth using! As
 
 ## Citing and Reusing sources
 1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
-2. If you find media you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permissions to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
+2. When you find media you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permissions to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
 
-Tip: permissions to share images can come in the form of usage rights licenses, creative commons licenses, or public domain designations. Look for these notes next to an image in its repository. You can search for images with usage rights in many places, like
+**Tip:** permissions to share images can come in the form of usage rights licenses, creative commons licenses, or public domain designations. Look for these notes next to an image in its repository. You can search for images with usage rights in many places, like
 * <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>
 * <a href="https://search.creativecommons.org/">Creative Commons</a>
 * <a href="https://flickr.com/search/">Flickr</a>
@@ -119,7 +119,7 @@ Tip: permissions to share images can come in the form of usage rights licenses, 
 
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67386">1c.Mapping check-in</a> on choosing resources for research here. LIB 201 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67388">1c.Mapping check-in here.</a>
+Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75447">1c.Mapping check-in</a> on choosing resources for research here.
 
 # 2. Building a Timeline
 
@@ -135,7 +135,7 @@ Before we get into tools, let's remember that we are telling a story about a pro
 * Are there themes, ranges of time, or other patterns that I want to highlight among my sources? (Example: you can group things by local v. national event, or tag certain events with a theme, like "desegregation" or "New Deal.")
 
 ### Check-in
-Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/16930/quizzes/67494">2.Mapping check-in</a>. (For HO 303 students only.)
+Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/19030/quizzes/77712">2.Timeline check-in</a>.
 
 ## Timeline tools: TimelineJS
 Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis), for instance, has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
@@ -148,7 +148,7 @@ Once you have signed in, click ```Get the Spreadsheet Template```, and click "Ma
 
 The first row contains the column headings and does not need editing. The 2nd row (the blue one) is going to be your title slide in the timeline, and doesn't need date metadata. You will see sample information in rows 2-3 that show you what is possible to add. 
 
-Begin creating your timeline using the assignment guidelines and filling out your story with metadata (dates, images, captions, etc.)!
+Begin creating your timeline using the assignment guidelines and filling out your story with metadata (dates, images, captions, etc.)! To publish (i.e. when you're done), follow steps 2-3 <a href="https://timeline.knightlab.com/#make">here</a>.
 
 # 3. Geospatial Data
 
