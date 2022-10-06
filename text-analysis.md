@@ -23,7 +23,7 @@ In addition to the important things to analyze in the letters, like places, peop
 <!--check-in/reading response for the readings?-->
 
 Required Tools
-- <a href="https://libguides.muw.edu/DSL">Gale Digital Scholar Lab</a>
+- <a href="https://libguides.muw.edu/DSL">Gale Digital Scholar Lab</a> (No download required)
 
 Optional tools 
 - <a href="http://lexos.wheatoncollege.edu/">Lexos</a> - web-based text-cleaning app
@@ -48,10 +48,10 @@ Optional tools
 ## Distant v. Close Reading
 If you have been in an English class before, you are familiar with the phrase "close reading." If you have not, close reading refers to choosing part of a text - a word, a symbol, an image - to closely analyze the context of the whole work. In other words, why did the author make these word choices? What factors (e.g. historical, intellectual, subliminal, etc.) have gone into influencing the text that show up in this text over and over again? Close reading is one method used analyze a text. Distant reading, which uses computer assistance to process large amounts of text, is the method we are going to use!
 
-Distant reading with computers is not a way to replace the levels of interpreting that humans are able to do. The work of the computer and the work of the text are often at odds, and while our brains will operate differently than a computer's, we are going to explore using the 2 together. In fact, distant reading <a href="https://en.wikipedia.org/wiki/Index_Thomisticus">is possible without a computer</a>--the work of the computer just saves time!  Additionally, computationally distant reading loses its impact without the context and interpretation from human eyes. (Here's <a href="https://critinq.wordpress.com/2019/04/03/computational-literary-studies-participant-forum-responses-day-3-5/">a controversial opinion</a> that even says it is a failure in the humanities! Gasp!) Countless distant reading projects have enhanced, adjusted, or even changed the ways we look at entire works of a specific collection, an author, or even genre. <!--cite these?--> Like close reading, though, distant reading will allow us to address a hypothesis about a text, and through analysis and interpretation, address that hypothesis with textual evidence.
+**Distant reading with computers is not a way to replace the levels of interpreting that humans are able to do.** The work of the computer and the work of the text are often at odds, and while our brains will operate differently than a computer's, we are going to explore using the 2 together. In fact, distant reading <a href="https://en.wikipedia.org/wiki/Index_Thomisticus">is possible without a computer</a>--the work of the computer just saves time!  Additionally, computationally distant reading loses its impact without the context and interpretation from human eyes. (Here's <a href="https://critinq.wordpress.com/2019/04/03/computational-literary-studies-participant-forum-responses-day-3-5/">a controversial opinion</a> that even says it is a failure in the humanities! Gasp!) Countless distant reading projects have enhanced, adjusted, or even changed the ways we look at entire works of a specific collection, an author, or even genre. <!--cite these?--> Like close reading, though, distant reading will allow us to address a hypothesis about a text, and through analysis and interpretation, address that hypothesis with textual evidence.
 
 Unlike close reading, distant reading allows us to:
-* Link specific words to the context in which they were used throughout a text (as in a <a href="https://www.corpusthomisticum.org/it/index.age">concordance</a> or <a href="https://cather.unl.edu/">scholarly digital edition</a>)
+* Link specific words to the context in which they were used throughout a text (as in a <a href="https://www.corpusthomisticum.org/it/index.age">concordance</a> or scholarly digital edition of an <a href="https://cather.unl.edu/">author's entire works</a> or just a <a href="https://digitalpowerhouse.org/">single short story</a>)
 <!--image-->
 * Visualize a single text (or a collection of texts), allowing us to 
     - interact with it graphically and dynamically
@@ -113,7 +113,7 @@ These methods - tokenizing, lemmatizing, stop words (there are more) - are still
 <b>These methods are automatic for many tools that we will use, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak these settings.
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67634">1.Text Analysis check-in</a> here. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67639">1.Text analysis check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75436">1.Text Analysis check-in</a> here.
 
 # 2. Select Distant Reading Methods
 
@@ -129,7 +129,7 @@ N-grams also show the patterns of those words as they're used throughout the tex
 
 ![Screenshot of Robots Reading Vogue, showing the uses of corset, girdle, bra, bustier, and hosiery over time](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/ngram-RRV.JPG)
 
-N-grams can also be used to collocate words or phrases and to determine relationships between word pairs. The example below shows how words with positive connotations are more often associated with gendered words.
+N-grams can also be used to collocate words or phrases and to determine relationships between word pairs. The example below shows how words in Shakespeare's plays with positive connotations are more often associated with male-gendered words.
 
 ![Screenshot of Heather Froehlich's analysis of Shakespeare texts, where male-gendered words have more positive connotations (i.e. Man - young) than female-gendered words (i.e. Woman - wretched)](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/ngram-shakespeare.JPG)
 
@@ -141,7 +141,7 @@ Topic Modeling is one of the more difficult text analysis methods because it is 
 
 ![Screenshot of Lincoln Sermons Topic keywords split into 10 columns labeled "topic 1," "topic 2," and so on](https://lincolnlogs.digitalscholarship.emory.edu/wp-content/uploads/2013/02/mallet.png)
 
-Topic modeling requires some inference on behalf of the person running the algorithm - how are these groups of words related? How are they used in the text? Do they signify a distinct theme? For instance, all of the words in topic #1 in the image above are probabistically related to each other. At first glance, it looks like they are related to law and policy. It is not always clear what distinct topics are, but knowing about the contents of the text helps! 
+Just like other text analysis methods, topic modeling requires some inference on behalf of the person running the algorithm - how are these groups of words related? How are they used in the text? Do they signify a distinct theme? For instance, all of the words in topic #1 in the image above are probabistically related to each other. At first glance, it looks like they are related to law and policy. It is not always clear what distinct topics are, but knowing about the contents of the text helps! 
 
 In another example, the column labels below were chosen to reflect the commonalities among the words below them.
 
@@ -163,18 +163,43 @@ A sentiment analysis uses natural language processing to "score" words according
 
 Note: Sentiment analyses have limits! Like toddlers, sentiment analyses **do not** detect sarcasm! :laughing: They also commonly do not account for the change in meanings of words over time (i.e. sick = ill v. sick = slang for cool).
 
-<!--link to Becky's project?-->
+See an <a href="https://sites.google.com/view/dslsentimentanalysis/home">example LIB 201 project</a> by Beckie Fuller, using content from 3 20th century letter collections to see if positive and negative emotions could be detected!
 
-<!-- ## Named Entity Recognition -->
+## Named Entity Recognition
+
+Named Entity Recognition (or NER) is similar to the previous methods, in that it uses a pre-determined list of words and algorithms to classify words into categories. These categories, or "named entities" helps readers identify key people, places, and things (aka "proper nouns," though it's not always limited to these) within a key text. For instance, if you are trying to identify locations in a text, you can use NER to help you identify named cities, counties, etc. Think about the tags you manually created in the letters. This is like an automated version of that!
+
+In the Digital Scholar Lab, the following categories are used, based on a <a href="https://spacy.io/api/data-formats#named-entities">commonly used NER module</a>:
+
+| Category | Description |
+| ---------- | --------------------------------------- |
+| Number | Numerals that do not fall under another type |
+| Date | Absolute or relative dates or periods |
+| Event | Named hurricanes, battles, wars, sports events, etc. |
+| Place | Buildings, airports, highways, bridges, etc. |
+| Geo-Political Entity | Countries, cities, states |
+| Language | Any named language |
+| Law | Named documents made into laws |
+| Geography | Non-GPE locations, mountain ranges, bodies of water |
+| Money | Monetary values, including unit |
+| Cultural Group | Nationalities or religious or political groups |
+| Position | "first", "second", etc. |
+| Organization | Companies, agencies, institutions, etc. |
+| Percentage | Percentage, including "%" |
+| Person | People, including fictional |
+| Product | Objects, vehicles, foods, etc. (Not services) |
+| Measurement | Measurements, as of weight or distance |
+| Time | A period of time, smaller than a day or 24 hours. |
+| Artwork | Includes titles of books, songs, etc. |
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67635">2.Text Analysis check-in</a> here. HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/quizzes/67637">2.Text analysis check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75458">2.Text Analysis check-in</a> here.
 
 # 3. Text Cleaning Methods
 
 Remember our discussion of tokenization, lemmas, and stop words? In order to remove the inconsistencies and "noise" for a computer to analyze texts, you will judicially employ and tinker with some of these processes. Also remember the words of advice from Muñoz and Rawson in <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning!"</a> when employing these methods!
 
-Before you even begin to clean individual texts, remember that you are also likely going to select groups of texts from within our collected transcriptions. Depending on what question you'll pursue, you might limit your letters to just be from a certain decade, or from (or to!) a particular individual, etc. Try to aim for enough letters to render your reading a "distant" one!
+Before you even begin to clean individual texts, remember that you are also likely going to select groups of texts from within our collected transcriptions. Depending on what question you'll pursue, you might limit your letters to just be from a certain decade, or from (or to!) a particular individual, etc. Try to aim for enough letters to render your reading a "distant" one! (In other words, 10 1-page letters probably won't be enough! Aim higher!)
 
 ![Screenshot of text cleaning configurations in the Digital Scholar Lab](https://github.com/hillaryAHR/LIB-201/blob/main/text-analysis-images/DSLAB_CreateCleanConfig_Corrections.jpg)
 <!--https://go.gale.com/ps/helpCenter?userGroupName=mag_u_muw&inPS=true&nspage=true&prodId=DSLAB&docId=GVOFKU762720149-->
@@ -197,4 +222,4 @@ In different tools, you will separate these words differently (spaces, commas, o
 
 ## Check-in
 Use this check-in to sketch out your main point of inquiry using text analysis. This will require more thinking through your text analysis assignment, so be sure to think through possible options, and you might even read through more letters before completing this.
-LIB 201 students will complete <a href="https://muw.instructure.com/courses/17249/quizzes/67636">3.Text Analysis check-in here</a>. HO 303 students will complete the <a href="https://muw.instructure.com/courses/16930/assignments/218446/">3.Text Analysis check-in</a>, as a group assignment, here.
+LIB 201 students will complete <a href="https://muw.instructure.com/courses/19030/quizzes/75449">3.Text Analysis check-in here</a>.
