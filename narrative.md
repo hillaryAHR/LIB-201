@@ -1,10 +1,10 @@
 # Narrative Projects
-We have been focusing on "telling the story" of a collection thus far through things like network analyses, timelines, maps, and textual analyses. Now it is time to use _a story_ to tell the story! Thus, we will create a narrative project to weave together the items in the collection - and the artifacts we've created with them - with what we have learned through our prodding, research, and exploration.
+We have been focusing on "telling the story" of a collection thus far through mini-projects like network analyses, timelines, maps, and textual analyses. Now it is time to use _a story_ to tell the story! Thus, we will create a narrative project to weave together the items in the collection - and the artifacts we've created with them - with what we have learned through our prodding, research, and exploration.
 
 Objectives:
 - Identify the qualities of an accessible web narrative
 - Identify elements that comprise Markdown formatting, and design a simple document with those elements
-- Design a narrative project with a thematic and/or chronological outline
+- Design a narrative project with a logical outline
 - Create a website portfolio that compiles primary sources, secondary sources, and derived artifacts from previous course modules.
 
 ## Lessons
@@ -15,7 +15,7 @@ Objectives:
 
 ## Required Tools/Reading
 - Text Editor software (comes installed on most computers). Suggestions for text editors:  
-    - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and I recommend installing it for this assignment: https://code.visualstudio.com/. Installation instructions for MAC or PC users here: https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/ 
+    - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and works within your browser (by typing the period ```.``` in a github markdown page). To install, visit https://code.visualstudio.com/. Installation instructions for MAC or PC users here: https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/ 
     - PC users: Notepad comes already installed
     - Mac users: TextEdit comes already installed
     - If you are using an already-installed text editor, preview your markdown using something like https://dillinger.io/ or https://markdownlivepreview.com/
@@ -57,11 +57,11 @@ Web-based narratives are great for sharing a variety of content in an open, publ
 3. <b>Web-based writing should use web elements.</b> Purposefully break up your text with formatting elements (see next section), use hyperlinks where appropriate (to cite, to refer to other content, etc.), and include media to enhance the meaning of something.
 
 ### Check-in: 
-Check your accesibility comprehension with the 1.Narrative check-in. LIB 201 students click <a href="https://muw.instructure.com/courses/17249/quizzes/68281">here</a>, and HO 303 students can <a href="https://muw.instructure.com/courses/16930/quizzes/68283">click here</a>.
+Check your accesibility comprehension with the <a href="https://muw.instructure.com/courses/19030/quizzes/75453">1.Narrative check-in</a>.
 
 # 2. Markdown
 
-Markdown is a very simple markup language (ha! did you catch that pun?!) used for writing for the web. Put simply, Markdown allows us to format our text (like *this* or **this**) using simple cues. All of our course lessons are written using Markdown, with some HTML here and there. Click the ```Raw``` button at the top of any lesson's screen to see what this looks like before being translated by your computer! It will show you the text-only version, resembling:
+Markdown is a very simple markup language (ha! did you catch that pun?!) used for writing for the web. Put simply, Markdown allows us to format our text using simple cues. All of our course lessons are written using Markdown, with some HTML here and there. Click the ```Raw``` button at the top of any lesson's screen to see what this looks like before being translated by your computer! It will show you the text-only version, resembling:
 
 ![Markdown file in a text editor with labels showing different kinds of formatting](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/markdown-example.JPG)
 
@@ -116,7 +116,7 @@ To hyperlink an image, put square brackets around the Markdown for the image, an
 
 >```[![alternative text](image-url)](hyperlinked-url)```
 
-For more help with markdown elements, there are free, online cheat sheets, like the <a href="https://www.markdownguide.org/basic-syntax/">Markdownguide.org</a>. **Bonus**: You can insert emoji with Markdown by putting the alt text in between two colons, like this: ```:rofl:```. Here's a full <a href="https://github.com/ikatyang/emoji-cheat-sheet">cheat sheet</a>. Have fun! :wink:
+For more help with markdown elements, there are free, online cheat sheets, like <a href="https://www.markdownguide.org/basic-syntax/">Markdownguide.org</a>. **Bonus**: You can insert emoji with Markdown by putting the alt text in between two colons, like this: ```:rofl:```. Here's a full <a href="https://github.com/ikatyang/emoji-cheat-sheet">cheat sheet</a>. Have fun! :wink:
 
 <!--
 ## Common HTML elements
@@ -134,7 +134,7 @@ For more help using HTML, there are free, online tutorials available through <a 
 -->
 
 ### Check-in
-Create a markdown file (save it as .md) in your text editor that uses elements above. LIB 201 students click here to submit the 2<a href="https://muw.instructure.com/courses/17249/quizzes/68282">.Narrative check-in</a>, and HO 303 students will <a href="https://muw.instructure.com/courses/16930/quizzes/68284">click here</a>.
+Create a markdown file (save it as .md) in your text editor that uses elements above for the <a href="https://muw.instructure.com/courses/19030/quizzes/75441">2.Narrative check-in</a>.
 
 # 3. Creating a narrative project
 
@@ -177,11 +177,11 @@ In addition to the story you're telling and the artifacts you're using, you'll w
 3. **Acknowledgements**: This of this as your works cited page. This will include hyperlinks to the sources you cited, but it can also include links to related archives or projects that gave you inspiration, and it can link to other archives or sources for further research.
 
 ### Check-in
-For this check-in, you will need to do some group-brainstorming. Be ready to:
+For this check-in, you will need to do some brainstorming. Be ready to:
 - write the central idea/thesis/purpose statement of your narrative in 1-2 sentences.
 - Brainstorm a list of the items (letters, metadata, projects, research, etc.) you'd like to focus on
 - sketch an outline of the narrative itself in 3-5 bullet points
 
-LIB 201 students can click here to complete the <a href="https://muw.instructure.com/courses/17249/discussion_topics/170622">3.Narrative check-in</a>, and HO 303 students can complete the <a href="https://muw.instructure.com/courses/16930/discussion_topics/170653">3.Narrative check-in</a> here. These check-ins will be a discussion post thread in which each of you will respond.
+After you've considered these things, click here to complete the <a href="https://muw.instructure.com/courses/19030/discussion_topics/190350">3.Narrative check-in</a>.
 
 
