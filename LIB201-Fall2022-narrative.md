@@ -56,7 +56,7 @@ This is an image of the results of the topic modeling.  The bars represent diffe
 ![Image of sentiment analysis of letters about church, with an overall neutral-to-positive score](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/religion-SA.png)
 This is an image of the sentiment analysis results.  Most of the results are in the "slightly positive" or "neutral" sections, indicating the overall tone of the letters.
 
-![Image of sentiment analysis of letters not about church, with an overall neutral-to-positive score]()
+![Image of sentiment analysis of letters not about church, with an overall neutral-to-positive score](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/nonchurch-sentiment-scores.png)
 
 In another sentiment analysis that includes letters that did not match the search criteria, using the same cleaning configuration, letters scored a similar overall score of neutral-to-positive (0.733 out of 5). While letters in this content set are more widely distributed, the overall score is similar. This may be due to the fact that like other topics discussed in the letters, church appears sporadically and briefly. 
 
