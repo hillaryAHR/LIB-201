@@ -23,7 +23,7 @@ Most of the letters were written by members of the Smith Family, with Sonny Boy 
 This project was created by Amanda Shinn and Hillary H. Richardson.  Amanda Shinn is a student at the MUW, class of 2023, majoring in Public History.  She is the writer, lead researcher, and lead curator of this project.  Hillary Richardson is the instructor of LIB 201, editor and coordinator of the Smith Papers Project, and the Coordinator of Undergraduate Research at MUW.
 
 ## Network of Correspondence
-![Screenshot of Palladio](image.png)
+![Screenshot of Palladio](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/sender-recipient-network_2022.png)
 
 The nodes represent individuals who are writing and recieving letters and the lines represent the connections between them and the people that they are writing letters to or recieving letters from. These screenshots tell us that Edith Pauline Smith, or "Pauline", the mother of the family, was the person with the highest number of connections to other people.  
 
