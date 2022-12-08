@@ -26,11 +26,11 @@ In this lesson, you will:
 - Erin Baucom, 2018. "An exploration into archival descriptions of LGBTQ Materials. _The American Archivist_, 81(1): 65-83. doi: https://doi.org/10.17723/0360-9081-81.1.65 
 
 ## Ethical considerations
-People create metadata, and even though they have mostly the best intentions, people also have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably biased frame of reference. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Even more recently, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen,” resulting in a <a href="https://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/ALA%20CD%2056%20RESOLUTION%20on%20Replacing%20the%20Library%20of%20Congress%20Subject%20Heading%20Illegal%20Aliens%20Without%20Further%20Delay%20Final.pdf"> resolution from the American Library Association</a> that has ended its use. As you find and create metadata, consider the words you use and the different connotations of their meanings.
+People create metadata, and even though they have mostly the best intentions, they also have biases, implicit or explicit. Metadata and metadata standards have been created by people with a notably biased frame of reference. For example, for many years, the Library of Congress classified books on homosexuality under “sexual deviance.” Even more recently, an undergraduate student at Dartmouth College began a campaign to change the “illegal alien” subject heading to “noncitizen,” resulting in a <a href="https://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/ALA%20CD%2056%20RESOLUTION%20on%20Replacing%20the%20Library%20of%20Congress%20Subject%20Heading%20Illegal%20Aliens%20Without%20Further%20Delay%20Final.pdf"> resolution from the American Library Association</a> that has ended its use. As you find and create metadata, consider the words you use and the different connotations of their meanings.
 
 # 1. Metadata-What and Why
 
-As you transcribe, tag, and create information (or data!) about the letters in the Smith Papers Collection, you are essentially creating _metadata_. Metadata is just "data about data," and it's something <a href="https://dictionary.archivists.org/entry/metadata.html">archivists use</a> to describe, preserve, organize, and digitize. Furthermore, metadata makes items in a collection easy to find and discover.
+As you transcribe, tag, and create information (aka data!) about the letters in the Smith Papers Collection, you are essentially creating _metadata_. Metadata is just structured "data about data," and it's something <a href="https://dictionary.archivists.org/entry/metadata.html">archivists and librarians use</a> to describe, preserve, organize, and digitize. Furthermore, metadata makes items in a collection easy to find and discover.
 
 Metadata makes the internet work! And for this class, it is one of the building blocks of digital research. Think about the items in a library database: 
 
@@ -52,7 +52,7 @@ Now, think about this as it pertains to a box of letters that have been scanned.
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters" width="" height="">
 
 ## Check in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75459"> 1.Metadata Check-in</a> here before moving to the next section.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78694"> 1.Metadata Check-in</a> here before moving to the next section.
 
 # 2. Metadata Standards
 
@@ -71,11 +71,11 @@ Open our <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQC
 
 ## Check-in
 
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75442">2.Metadata Check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78685">2.Metadata Check-in</a> here.
 
 # 3. Metadata Guidelines for the Smith Papers
 
-As you noticed in the <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQCDpZ/view?usp=sharing"> guidelines for the Smith Collection</a>, we have a BUNCH of fields to describe one letter:
+As you noticed in the <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQCDpZ/view?usp=sharing"> guidelines for the Smith Collection</a>, we have a BUNCH of categories (or "fields") to describe one letter:
 
 <table>
     <tr>
@@ -148,7 +148,7 @@ Using the letter below and the <a href="https://drive.google.com/file/d/1VWQTiwh
 
 <a href="https://drive.google.com/file/d/1o8SgzeV3L25o1e83y_uvMR0yYYOvmKat/view?usp=sharing"> Click here to access the letter</a> 
 
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75437">3.Metadata check-in</a> here. 
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78686">3.Metadata check-in</a> here. 
 
 <!--* Object Identifier
 * Title 
@@ -185,7 +185,7 @@ In this example, ```Motion pictures``` is broadly used enough in this list of re
 Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Recently, catalogers have rewritten guideline to change the subject heading "illegal alien" to "undocumented immigrant." In the first heading, the person was criminalized, and in the second heading, the phrase is descriptive, and not as loaded. When choosing a subject heading, keep in mind the consequences of your words.Another example is the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities."</a> In addition to not being very descriptive, it is often a loaded term that de-humanizes a group of people. Your job in choosing a subject heading is to create a helpful category for users who are interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75445">4.Metadata check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78705">4.Metadata check-in</a> here.
 
 # 5. Project and Data management
 By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group in class, but consider these parts of project and data management that are embedded in creating digital scholarship.
@@ -241,7 +241,7 @@ Last, but not least, it's important to consider the principals under which you'l
 * <a href="http://www.scottbot.net/HIAL/index.html@p=6336.html">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
-Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/19030/quizzes/75439">the questions in the Data and Project Management Plan</a> in Canvas. <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
+Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/19899/quizzes/78706">the questions in the Data and Project Management Plan</a> in Canvas. <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
 
 
 <!--section on project pitch?-->
