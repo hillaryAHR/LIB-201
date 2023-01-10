@@ -14,7 +14,7 @@ In this lesson, you will:
 2. [Metadata Standards](#2-metadata-standards)
 3. [Metadata Guidelines for the Smith Papers](#3-metadata-guidelines-for-the-smith-papers)
 4. [Library of Congress Subject Headings](#4-library-of-congress-subject-headings)
-5. [Project and Data Management](#5-project-and-data-management) (For LIB 201 students)
+5. [Project and Data Management](#5-project-and-data-management)
 
 ## Required Reading
 - Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/2080084/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
