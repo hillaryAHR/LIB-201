@@ -17,10 +17,10 @@ In this lesson, you will:
 5. [Project and Data Management](#5-project-and-data-management) (For LIB 201 students)
 
 ## Required Reading
-- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/1655565/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
+- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/2080084/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
 - Schöch, Christof, 2013. "Big? Smart? Clean? Messy? Data in the Humanities," _The Dragonfly's Gaze_ (revised and published in _Journal of Digital Humanities_ 2(3).) https://dragonfly.hypotheses.org/443
 - Hanna, Laurel 2021, "Pitts Staff Works to Counteract Racism in Library Catalog." _Candler News and Events_, Emory, Candler School of Theology, https://candler.emory.edu/news/releases/2021/01/pitts-staff-works-to-counteract-racism-in-library-catalog.html 
-- Ketchley, Sarah. "Planning & Managing Digital Projects," _DH in Practice Coursebook_. pp 46-55.(<a href="https://muw.instructure.com/courses/17249/files/folder/Readings?preview=1655566">Available for LIB 201 students in Canvas</a>). 
+- Ketchley, Sarah. "Planning & Managing Digital Projects," _DH in Practice Coursebook_. pp 46-55.(<a href="https://muw.instructure.com/files/2080070/download?download_frd=1">Available for LIB 201 students in Canvas</a>). 
 
 ## Further Reading (optional)
 - Erin Baucom, 2018. "An exploration into archival descriptions of LGBTQ Materials. _The American Archivist_, 81(1): 65-83. doi: https://doi.org/10.17723/0360-9081-81.1.65 
