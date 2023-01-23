@@ -58,7 +58,7 @@ While it is long, I highly recommend watching <a href="https://youtu.be/-cDD9P0r
 
 ## Check-in
 
-Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/19030/quizzes/75438">0.Transcribing Check-in</a>. 
+Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/19899/quizzes/78702">0.Transcribing Check-in</a>. 
 
 
 # 2. Text Regions in Transkribus
@@ -97,7 +97,7 @@ Transkribus does a pretty good job of identifying these text regions for us. The
      ![screenshot of lines reading order](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/line-reading-order-screenshot.JPG)
 
 ## Check-in
-Complete <a href="https://muw.instructure.com/courses/19030/quizzes/75443">2.Transcribing Check-in</a> here.
+Complete <a href="https://muw.instructure.com/courses/19899/quizzes/78704">2.Transcribing Check-in</a> here.
 
 # 3. Handwritten Text Recognition
 
@@ -121,7 +121,7 @@ We are using the Transkribus software because it allows you to create Handwritte
 5. After you've completed editing the transcription, go back over the letter, making sure you didn't miss typos, and you can simultaneously begin tagging the document, which will be explained in the next lesson! 
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75448">3.Transcribing Check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78708">3.Transcribing Check-in</a> here.
 
 # 4. Metadata Tags
 
@@ -168,7 +168,7 @@ sender - The person who sent the letter, either in the return address, or in the
 ![Screenshot of creating a new tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/create-new-tag.JPG)
 
 ## Check-in
-Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/19030/quizzes/75454">4.Transcribing Checkin</a>.>
+Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/19899/quizzes/78697">4.Transcribing Checkin</a>.>
 
 As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.
 
