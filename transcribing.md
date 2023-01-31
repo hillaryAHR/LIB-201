@@ -144,6 +144,7 @@ Here are the tags we have, to this point, decided to use for the Smith Collectio
 2. **place** - when a place name is mentioned within the body of the letter. This does not usually include general places like Sunday school or hospital. Examples would be town names like Bruce or Memphis.
 sender - The person who sent the letter, either in the return address, or in the letter’s closing.
 3. **recipient** - The person the letter is addressed to, either on the envelope, or in the salutation.
+4. **sender** - The person who wrote the letter. They usually put their name in the return address and in the signature.
 4. **address** - The address the letter was sent to.
 5. **return-address** - the address the letter came from (not always included)
 6. **organization** - a specific group, corporation, or entity (e.g. the Senate, the T.V.A., or Ole Miss), not a generic place like hospital or school.
