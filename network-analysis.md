@@ -53,7 +53,7 @@ Another thing to consider when making highly visual graphs is how accessible you
 
 ## Check-in 
 
-Before we keep going, click and log in to Canvas for the <a href="https://muw.instructure.com/courses/19030/quizzes/75435"> 0.Network Analysis check-in</a>.
+Before we keep going, click and log in to Canvas for the <a href="https://muw.instructure.com/courses/19899/quizzes/78707"> 0.Network Analysis check-in</a>.
 
 ### Acknowledgements
 * Lecture notes from Dr. Katayoun Torabi, Programming for Humanists Instructor, Center of Digital Humanities Research at Texas A&M University. http://programming4humanists.tamu.edu/
@@ -94,7 +94,7 @@ Paths are the length from one node to the next. In this image, the path length f
 
 ## Check-in
 
-Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75440">1.Network Analysis</a> check-in.
+Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78698">1.Network Analysis</a> check-in.
 
 # 2. Analyzing relational data
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
@@ -145,7 +145,7 @@ This is the last metric to consider here, and it's essentially an algorithm that
 Whew! That's it.-->
 
 ## Check-in
-Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75455">2.Network Analysis</a> check in.
+Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78691">2.Network Analysis</a> check in.
 
 # 3. Data Modeling for Visualizing a Network
 
@@ -164,7 +164,7 @@ In this graph, each column heading (the variables) has one observation (the info
 Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
 
 ## Check in
-Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/19030/quizzes/75444">3.Network Analysis Check-in</a>.
+Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/19899/quizzes/78687">3.Network Analysis Check-in</a>.
 
 ## Cleaning Data
 
@@ -203,7 +203,7 @@ There are lots of ways to clean a spreadsheet - some complex and some simple. He
 If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!) who they are or are not. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum! This process will take a while and feel repetitive, but remember, that is normal. Give yourself time, and take plenty of breaks.
 
 ## Check-in
-Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/19030/quizzes/75457>Check-in 3a.Network Analysis</a> here. For an example of detailing this process, see the <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">tags README</a> file.
+Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/19899/quizzes/78690>Check-in 3a.Network Analysis</a> here. For an example of detailing this process, see the <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">tags README</a> file.
 
 # 4. Software for visualizing a network analysis
 
@@ -260,4 +260,4 @@ Once you've verified the data and gone back to clean any leftover issues, it's t
 There are also Palladio's own Tutorials and FAQs for <a href="http://hdlab.stanford.edu/palladio/tutorials/data/">loading data</a> and <a href="http://hdlab.stanford.edu/palladio/tutorials/graph/">customizing a graph</a>. Both of which are helpful!
 
 ## Check-in
-Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/19030/quizzes/75450">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project.
+Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/19899/quizzes/78693">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project.
