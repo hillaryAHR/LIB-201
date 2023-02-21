@@ -75,7 +75,7 @@ Secondary sources are usually interpretive, aren't usually published, posted, or
 * ...and more!
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75446">1a.Timeline check-in</a> on primary and secondary sources. 
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78692">1a.Research data check-in</a> on primary and secondary sources. 
 
 ## Finding Resources
 Now that we've figured out the differences between primary and secondary sources, you will use this information to choose sources in different places. For our upcoming projects, we will look in several places, including, but not limited to:
@@ -95,7 +95,7 @@ To help with research topics, resources, and relevant websites, MUW faculty and 
 
 ### Check-in
 
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75434">1b.Mapping check-in</a> on finding resources here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78688">1b.Research data check-in</a> on finding resources here.
 
 ## Evaluating resources:
 
@@ -119,7 +119,7 @@ By now, you know that not everything you find on the internet is worth using! As
 
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75447">1c.Mapping check-in</a> on choosing resources for research here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78683">1c.Research data check-in</a> on choosing resources for research here.
 
 # 2. Building a Timeline
 
@@ -135,7 +135,7 @@ Before we get into tools, let's remember that we are telling a story about a pro
 * Are there themes, ranges of time, or other patterns that I want to highlight among my sources? (Example: you can group things by local v. national event, or tag certain events with a theme, like "desegregation" or "New Deal.")
 
 ### Check-in
-Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/19030/quizzes/77712">2.Timeline check-in</a>.
+Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/19899/quizzes/78699">2.Timeline check-in</a>.
 
 ## Timeline tools: TimelineJS
 Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis), for instance, has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
@@ -170,7 +170,7 @@ Shape files can come in a variety of formats. Most of the time, they will includ
 * .csv
 
 ### Check-in
-Complete <a href="https://muw.instructure.com/courses/17249/quizzes/67496">3a.Mapping checkin</a> here before going to the next section. (For LIB 201 students only.)
+Complete <a href="https://muw.instructure.com/courses/19899/quizzes/81902">3a.Mapping checkin</a> here before going to the next section.
 
 ## Finding map data
 
@@ -210,7 +210,7 @@ To give you an idea of what it might take to gather the data you'd like to exami
     ![Screenshot of a message from Google verifying I'm not a robot](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/captcha.JPG)
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/17249/quizzes/67517">3b.Mapping check-in</a> here. (Only LIB 201 students need to complete this.)
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/81901">3b.Mapping check-in</a> here. (Only LIB 201 students need to complete this.)
 
 ## Mapping tools
 There are a range of different mapping tools that require a range of experience and can cost $0 or require a monthly subscription! We are going to use <a  href="https://www.arcgis.com/home/index.html">ArcGIS online</a>, which is free (with some limits), and doesn't require any additional downloads. Before we begin, create a free, public account. (Instructions for signing up are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm">here</a>.)
@@ -232,8 +232,6 @@ In ArcGIS online, you can choose any basemap you'd like, but let's look at what 
 
 Take a minute to explore the shapefile's contents! What can you discern from each column heading, or contents within?
 
-<!--check-in: multiple choice about what's in the shapefile?-->
-
 4. Now it's _your_ turn to add data from the Smith Papers and from secondary sources. 
 
 To create your own data set, think about the data you'll be collecting, and what all you want to be visible on your map. Each location will have accompanying metadata, which will likely include:
@@ -251,6 +249,6 @@ To create your own data set, think about the data you'll be collecting, and what
 
 ***This will be a good place to provide context and even interpretation of certain events or locations.
 
-
+<!--finishing and sharing the map URL-->
 
 
