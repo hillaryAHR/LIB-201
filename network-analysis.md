@@ -38,6 +38,8 @@ For the Smith Papers collection, we are asking these questions, more or less!
 ## Further Readings and tutorials (optional)
 * Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
 * Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
+* Scott Weingart, 2015, "Networks Demystified 9: Bimodal networks." http://www.scottbot.net/HIAL/index.html@p=41158.html
+* Palladio Tutorial and FAQs. https://hdlab.stanford.edu/palladio/help/
 * Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
 * Katayoun Torabi. Introduction to Gephi. 2020 Programming4Humanists Presentation
 * Programming Historian, "From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources." https://doi.org/10.46430/phen0044 
