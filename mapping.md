@@ -81,7 +81,7 @@ Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78692">1
 Now that we've figured out the differences between primary and secondary sources, you will use this information to choose sources in different places. For our upcoming projects, we will look in several places, including, but not limited to:
 * Websites (i.e. blogs, news sites, .orgs, .govs, etc.). 
     * Blogs can show you someone else's perspective on a related topic, link to other sources, etc.
-    * You can find reports and data on government or organizational websites like the <a href="https://archives.gov">National Archives and Records Administration</a> or <a href="http://mshistorynow.mdah.state.ms.us/">Mississippi History Now</a>, from the Mississippi Department of Archives and History.
+    * You can find reports and data on government or organizational websites like the <a href="https://archives.gov">National Archives and Records Administration</a> or <a href="https://www.mshistorynow.mdah.ms.gov/">Mississippi History Now</a>, from the Mississippi Department of Archives and History.
     * Wikipedia (gasp!) can even get you started with background information on a topic you're unfamiliar with! The <b>external and reference links</b> at the bottom of the page are also usually good breadcrubms to follow. 
 * <a href="https://mlp.ent.sirsi.net/client/en_US/muw">Library books</a>. Books (or book chapters) are a great way to take a deep dive into a topic. For establishing a foundation for a research topic that involves culture, history, major events...books are a great place to start. 
     * Books in the library are great, but you can easily get a book outside of the library! When searching in the catalog, change the drop-down menu from "MUW Library" to "Everything," and if you find a book outside of MUW, click the Place Hold button.
@@ -108,6 +108,7 @@ By now, you know that not everything you find on the internet is worth using! As
 ## Citing and Reusing sources
 1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
 2. When you find media you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permissions to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
+3. When reusing images, video, etc., be sure the links you use are supported by the platform you're sharing them on. Not all image and video files will work in all places (for example, see the <a href="https://timeline.knightlab.com/docs/media-types.html">supported media types used in TimelineJS</a>)! Additionally, be sure you're copying the correct URL if using an external image. 
 
 **Tip:** permissions to share images can come in the form of usage rights licenses, creative commons licenses, or public domain designations. Look for these notes next to an image in its repository. You can search for images with usage rights in many places, like
 * <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>
