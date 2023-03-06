@@ -46,7 +46,7 @@ Optional tools
 # 1. Distant Reading
 
 ## Distant v. Close Reading
-If you have been in an English class before, you are familiar with the phrase "close reading." If you have not, close reading refers to choosing part of a text - a word, a symbol, an image - to closely analyze the context of the whole work. In other words, why did the author make these word choices? What factors (e.g. historical, intellectual, subliminal, etc.) have gone into influencing the text that show up in this text over and over again? Close reading is one method used analyze a text. Distant reading, which uses computer assistance to process large amounts of text, is the method we are going to use!
+If you have been in an English class before, you are familiar with the phrase "close reading." If you have not, close reading refers to choosing part of a text - a word, a symbol, an image - to closely analyze the meaning of the whole work. In other words, why did the author make these word choices? What factors (e.g. historical, intellectual, subliminal, etc.) have gone into influencing the text that show up in this text over and over again? Close reading is one method used analyze a text. Distant reading, which is founded on some of the same principles as close reading, uses computer assistance to process **large** amounts of text, and it is the method we are going to use!
 
 **Distant reading with computers is not a way to replace the levels of interpreting that humans are able to do.** The work of the computer and the work of the text are often at odds, and while our brains will operate differently than a computer's, we are going to explore using the 2 together. In fact, distant reading <a href="https://en.wikipedia.org/wiki/Index_Thomisticus">is possible without a computer</a>--the work of the computer just saves time!  Additionally, computationally distant reading loses its impact without the context and interpretation from human eyes. (Here's <a href="https://critinq.wordpress.com/2019/04/03/computational-literary-studies-participant-forum-responses-day-3-5/">a controversial opinion</a> that even says it is a failure in the humanities! Gasp!) Countless distant reading projects have enhanced, adjusted, or even changed the ways we look at entire works of a specific collection, an author, or even genre. <!--cite these?--> Like close reading, though, distant reading will allow us to address a hypothesis about a text, and through analysis and interpretation, address that hypothesis with textual evidence.
 
@@ -113,7 +113,7 @@ These methods - tokenizing, lemmatizing, stop words (there are more) - are still
 <b>These methods are automatic for many tools that we will use, but let's not forget them!</b> When we encounter errors or strange findings, it might be that we need to tweak these settings.
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75436">1.Text Analysis check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78684/">1.Text Analysis check-in</a> here.
 
 # 2. Select Distant Reading Methods
 
@@ -193,7 +193,7 @@ In the Digital Scholar Lab, the following categories are used, based on a <a hre
 | Artwork | Includes titles of books, songs, etc. |
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/19030/quizzes/75458">2.Text Analysis check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78703">2.Text Analysis check-in</a> here.
 
 # 3. Text Cleaning Methods
 
@@ -222,4 +222,4 @@ In different tools, you will separate these words differently (spaces, commas, o
 
 ## Check-in
 Use this check-in to sketch out your main point of inquiry using text analysis. This will require more thinking through your text analysis assignment, so be sure to think through possible options, and you might even read through more letters before completing this.
-LIB 201 students will complete <a href="https://muw.instructure.com/courses/19030/quizzes/75449">3.Text Analysis check-in here</a>.
+LIB 201 students will complete <a href="https://muw.instructure.com/courses/19899/quizzes/78696">3.Text Analysis check-in here</a>.
