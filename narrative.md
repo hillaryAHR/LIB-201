@@ -1,5 +1,5 @@
 # Narrative Projects
-We have been focusing on "telling the story" of a collection thus far through mini-projects like network analyses, timelines, maps, and textual analyses. Now it is time to use _a story_ to tell the story! Thus, we will create a narrative project to weave together the items in the collection - and the artifacts we've created with them - with what we have learned through our prodding, research, and exploration.
+We have been focusing on "telling the story" of a collection thus far through mini-projects like network analyses, timelines, maps, and textual analyses. Now it is time to use _a story_ to tell the story! Thus, we will create a narrative, online project to weave together the items in the collection - and the artifacts we've created with them - with what we have learned through our prodding, research, and exploration.
 
 Objectives:
 - Identify the qualities of an accessible web narrative
@@ -54,10 +54,10 @@ Web-based narratives are great for sharing a variety of content in an open, publ
 
     ![Broken image icon - a page with an invisible line through it](https://www.thewindowsclub.com/wp-content/uploads/2018/06/Broken-image-icon-in-Chrome.gif)
 
-3. <b>Web-based writing should use web elements.</b> Purposefully break up your text with formatting elements (see next section), use hyperlinks where appropriate (to cite, to refer to other content, etc.), and include media to enhance the meaning of something.
+3. <b>Web-based writing should use web elements.</b> Purposefully break up your text with formatting elements (see next section), use hyperlinks where appropriate (to cite, to refer to other content, etc.), and include media to enhance and solidify the meaning of something.
 
 ### Check-in: 
-Check your accesibility comprehension with the <a href="https://muw.instructure.com/courses/19030/quizzes/75453">1.Narrative check-in</a>.
+Check your accesibility comprehension with the <a href="https://muw.instructure.com/courses/19899/quizzes/78701">1.Narrative check-in</a>.
 
 # 2. Markdown
 
@@ -134,7 +134,7 @@ For more help using HTML, there are free, online tutorials available through <a 
 -->
 
 ### Check-in
-Create a markdown file (save it as .md) in your text editor that uses elements above for the <a href="https://muw.instructure.com/courses/19030/quizzes/75441">2.Narrative check-in</a>.
+Create a markdown file (save it as .md) in your text editor that uses elements above for the <a href="https://muw.instructure.com/courses/19899/quizzes/78695">2.Narrative check-in</a>.
 
 # 3. Creating a narrative project
 
@@ -182,6 +182,6 @@ For this check-in, you will need to do some brainstorming. Be ready to:
 - Brainstorm a list of the items (letters, metadata, projects, research, etc.) you'd like to focus on
 - sketch an outline of the narrative itself in 3-5 bullet points
 
-After you've considered these things, click here to complete the <a href="https://muw.instructure.com/courses/19030/discussion_topics/190350">3.Narrative check-in</a>.
+After you've considered these things, click here to complete the <a href="https://muw.instructure.com/courses/19899/discussion_topics/199943">3.Narrative check-in</a>.
 
 
