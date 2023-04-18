@@ -29,6 +29,9 @@ In the Spring of 2023, LIB 201 students transcribed, created metadata for, and a
 ## Sources Consulted
 * Winchell, Meghan. [_Good girls, good food, good fun : the story of USO hostesses during World War II_](https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2062907/ada?rt=CKEY|||CKEY|||false). UNC Press, 2008.
 
+## Entertainment
+[![screenshot of TimelineJS of WWII era Entertainment](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/entertainment-timeline.png?raw=true)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Xrmx6ZwW1-Au_XlnhFlPKG4FTOfCjraGjqKfTq1dcrw&font=Default&lang=en&initial_zoom=2&height=650 )
+
 ## Women’s Social Lives: 
 
 The Smith daughters were not the only women dating and marrying during this time. Several women, in the USA and from other countries, were marrying men from the army, as one article states: ““Home Alive By ‘45.” Home was not only on the minds of millions of Americans in uniforms in 1945; it was also on the minds of between 60,000 to 70,000 women wed by American servicemen during and immediately after World War II” (Nationalww2museum.org <https://www.nationalww2museum.org/war/articles/war-brides-act-1945>). Plenty of young people had marriage on their mind, so Christine and Woody were one of many, many couples that wed during these few years!
