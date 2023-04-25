@@ -60,30 +60,35 @@ Letter from Christine Smith to Martha Smith, March 9, 1944
 
 On the other hand, USOs abroad did the same thing as they did in the states: entertain troops and keep the morale high during the war. As Christine was excited about the USO entertainment, Sonny Boy had a different response to the entertainment. He stated, "I didn't enjoy it much."(Sonny Boy, mcj-dp018-19431019-smith-sonnyboy_001.pdf).
 Based on the horrible singing, he was not much of a fan. So two opinions are formed on USO entertainment during the war. One side is aw of the celebrities and popularity, and the other is not so great. 
-![insert images of Sonny Boy's letter describing his review of USO entertainment pt. 1 & pt. 2](https://raw.githubusercontent.com/hillaryAHR/LIB-201/main/narrative-images/from-mcj-dp018-19431019-smith-sonnyboy.png)
+![Sonny Boy's letter describing his review of USO entertainment pt. 1 & pt. 2](https://raw.githubusercontent.com/hillaryAHR/LIB-201/main/narrative-images/from-mcj-dp018-19431019-smith-sonnyboy.png)
 However, the opinion, the United Service Organization brought entertainment to the troops free of charge and risked their well-being to do so. It was described as "a juggernaut mightier than any enemy" by Erin Blakemore. Blakemore continued to explain in her article the effect the stars and crew had from traveling and putting on shows for the frontline troops.
 ![USO at 75: The Surprising Fear That Created the USO](https://time.com/4205222/uso-75-years/)
 The USO women did not always have as nice of boys as the Smith daughters did. Bettelee Zahn, who worked with the USO clubs,  “believed that the parents of some of the men who came to the club did not teach them to treat women “with great respect”” (*Good Girls Good Food Good Fun* p.94 <https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2062907/one?qu=good+girls+good+food>). When it came to actually dating servicemen, USO hostesses were not allowed and even casual dating meant penalties or removal from the USO. That does not mean dating did not happen, however!.
 
 # Women’s Social Lives: 
 The Smith daughters were not the only women dating and marrying during this time. Several women, in the USA and from other countries, were marrying men from the army.
-[adding more]
+
 Plenty of young people had marriage on their mind, so Christine and Woody were one of many, many couples that wed during these few years!
 
-# Letters from the Front Lines
+![Image of Christine in her wedding dress and Woody in his navy uniform on their wedding day, May 20, 1944](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/mcj-photograph-EMPS-11-007.jpg?raw=true)
 
-##Psychological Effects:
+## Letters from the Front Lines
+
+![Portrait of Sonny Boy after completing basic training in 1943](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/mcj-photograph-EMPS-11-006.jpg?raw=true)
+
+### Psychological Effects:
 There are many psychological effects of the war in general. However, during this period, it was uncommon to discuss these things. It was understood to never show them at all, especially for men. War is cruel and gruesome, but World War Two was optimistic in American eyes, as explained through entertainment. There was a cause backing up the actions of the troops. Hence, Sonny Boy wrote in a comforting way to his family. However, he faced many challenges in the war. He stated, " If we didn't move fast enough there was a man behind us with a rifle and his ammunition shooting at our heels." (Sonny Boy, much-dp018-19430907-smith-sonnyboy_001.txt). 
 ![image of Sonny Boy's letter](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19430907-smith-sonnyboy-2.png?raw=true)
 Which was Sonny Boy describing the actual effects of war when he could. However, there is still a psychological effect that was never explained in any letters, such as did he ever have PTSD or any other impact of the war. As stated in text analysis research, there are statistical effects of war described by Resul Cesur, Joseph J. Sabia, and Erdal Tekin in their paper series, "The Psychological Costs of War: Military Combat and Mental Health." I stated, "If you are and active member of the military service, the authors believe that a member in the army will have a '0.116' chance of needing counseling." Hence, this chance is higher than 0, so there is some effect. Later in the N-Gram analysis or cleaning process of the text analysis shows that there is some sense of affirming language to show that maybe his mental health was good during the war; however, there is still a possibility of him hiding such troubles, such words as good, love, and like. 
+
 ![image of text analysis ran later in the cleaning process of text analysis”Final N-Gram]
 
 Overall, the possibility of the psychological effects of war on Sonny Boy can be explained with possible further research and conversing with relatives of him to see if there were any effects. 
 
-##Censorship:
+### Censorship:
 Censoring was a known thing during World War Two and was further investigated by Alvin William McDaniel Jr. in "The war on words: the Office of Censorship in World War II." It was also noticed through various stamps or stamp locations on some of the letters sent out by Sonny Boy. 
 
-![image of censorship stamp on letter](censorship letter)
+![image of censorship stamp on letter](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19440429-sonnyboy-censorship-stamp.png?raw=true)
 
 These offices would limit what any troop could say to keep an optimistic view on the war or the cause backing up United States affiliation in the war. Censorship played a significant role in the war and will eventually affect the letters, mainly blacking out lines. This could have caused the results to run in a text analysis researching if there was a positive or negative effect in wartime letters from Sonny Boy and Robert Young. 
 
