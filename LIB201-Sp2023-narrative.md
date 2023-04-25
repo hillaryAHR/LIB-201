@@ -37,17 +37,27 @@ In the Spring of 2023, LIB 201 students transcribed, created metadata for, and a
 ## Entertainment
 
 [![Screenshot of timeline of entertainment mentioned in the letters between 1938-1944](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/entertainment-timeline.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Xrmx6ZwW1-Au_XlnhFlPKG4FTOfCjraGjqKfTq1dcrw&font=Default&lang=en&initial_zoom=2&height=650)
+
+### Entertainment for Entertainment's Sake
 There are tons of forms of entertainment in this era! Radio shows, music, films, books, and more were included in these letters. There was tons of music going on in the 1940s, but one of Sonnyboy’s favorites is hillbilly music, which grew in popularity in the later 1930s. (Best Selling Records charts p.30) One of the biggest songs was [“Pistol Packin Mama” by Al Dexter and the Troopers](https://www.youtube.com/watch?v=EwsJDFgBO9k/). People in Europe also enjoyed it, Sonnyboy says in a letter to Pauline, “These Englishmen really 
-like hillbilly music! I went to town the other night and played my harp and pretty soon I was the center of attraction” (Sonnyboy, mcj-dp018-19440122-smith-sonnyboy_001).
-Movies were a large source of entertainment. *Gone with the Wind* is a popular movie even today, but back then it was rather huge. One of Christine’s suitors, B, had written to her, “Some like it; others dont” (B, mcj-dp018-19400129-b_001.pdf). The film puts the Civil War-era South on a pedestal and does not discuss the harmful racial biases in the film. The South did not want to acknowledge the horrible treatment of anyone that was not white, which is very insensitive but also contributes to historical inaccuracies. 
+like hillbilly music! I went to town the other night and played my harp and pretty soon I was the center of attraction” 
+![Letter from Sam E. Smith to Pauline Smith, January 22, 1944](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-d-018-19440122-smith-sonnyboy-hillbilly-quote.png?raw=true).
+
+### Race in Film
+Movies were a large source of entertainment. *Gone with the Wind* is a popular movie even today, but back then it was rather huge. One of Christine’s suitors, B, had written to her, “Some like it; others dont” ![Letter from B to Christine Smith, January 29, 1940](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-mcj-dp018-19400129-b.png?raw=true). The film puts the Civil War-era South on a pedestal and does not discuss the harmful racial biases in the film. The South did not want to acknowledge the horrible treatment of anyone that was not white, which is very insensitive but also contributes to historical inaccuracies. 
+
+### War propaganda
 *Gone with the Wind* is not the only film that had messages to the intended audience. In a paper by Koppes and Black from the book [*Hollywood's America : United States History Through its Films*](https://eds-s-ebscohost-com.libprxy.muw.edu/eds/detail/detail?vid=3&sid=e42ca8e0-a94b-49af-a71e-94569435351e%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=mstate.665279&db=cat00043a), they write that “The Hollywood office became part of OWI [Office of War Information] in June 1942 and began one of the agency’s more important and controversial activities” (p. 158). Elmer Davis was a director at OWI and thought film could be a big tool for propaganda use. However, it was not that easy to get Hollywood in on this, the “OWI now recognized that to inject its propaganda ideas into feature films, the Hollywood bureau had to influence the studios while the films were being produced” (p. 161).
 
 While many films during World War II may have been full of propaganda, that does not mean these were not used for escape. Any form of entertainment can be a form of escapism for people during these times, but films were especially a huge and popular form. Films gave people the chance to ignore current affairs, even if the films took place during the war. Films gave people hope, thinking that if the films have a happy ending then maybe they and their families and friends will all be okay.
 
 ### United Services Organization
 The USO traveled far and wide to entertain the troops during World War II. The United Services Organization consisted of many different organizations but allowed many celebrities to travel and entertain troops. One known figure was Bob Hope. Who was mentioned by Christine in one of her letters. She addressed how he was leaving the base, which he was popular on. So, USO entertainment was popular on one side of the family.
-![insert image of Bob Hope](Bob Hope)
-![image of letter](Christine letter mentioning bob hope travels)
+[![Image of comedian Bob Hope](https://bobhope.uso.org/about/bob-hope)](https://uso-location-bobhope.s3.amazonaws.com/about-pages/5/814b4f63-8c28-4607-9420-5b44a38526ea-wide.jpg?1559253208)
+
+![image of letter from Christine talking about seeing Bob Hope returning home from a USO tour]()
+Letter from Christine Smith to Martha Smith, March 9, 1944
+
 On the other hand, USOs abroad did the same thing as they did in the states: entertain troops and keep the morale high during the war. As Christine was excited about the USO entertainment, Sonny Boy had a different response to the entertainment. He stated, "I didn't enjoy it much."(Sonny Boy, mcj-dp018-19431019-smith-sonnyboy_001.pdf).
 Based on the horrible singing, he was not much of a fan. So two opinions are formed on USO entertainment during the war. One side is aw of the celebrities and popularity, and the other is not so great. 
 ![insert images of Sonny Boy's letter describing his review of USO entertainment pt. 1 & pt. 2](https://raw.githubusercontent.com/hillaryAHR/LIB-201/main/narrative-images/from-mcj-dp018-19431019-smith-sonnyboy.png)
