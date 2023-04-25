@@ -53,7 +53,7 @@ While many films during World War II may have been full of propaganda, that does
 
 ### United Services Organization
 The USO traveled far and wide to entertain the troops during World War II. The United Services Organization consisted of many different organizations but allowed many celebrities to travel and entertain troops. One known figure was Bob Hope. Who was mentioned by Christine in one of her letters. She addressed how he was leaving the base, which he was popular on. So, USO entertainment was popular on one side of the family.
-[![Image of comedian Bob Hope](https://bobhope.uso.org/about/bob-hope)](https://uso-location-bobhope.s3.amazonaws.com/about-pages/5/814b4f63-8c28-4607-9420-5b44a38526ea-wide.jpg?1559253208)
+[![Image of comedian Bob Hope](https://uso-location-bobhope.s3.amazonaws.com/about-pages/5/814b4f63-8c28-4607-9420-5b44a38526ea-wide.jpg?1559253208)](https://bobhope.uso.org/about/bob-hope)
 
 ![image of letter from Christine talking about seeing Bob Hope returning home from a USO tour]()
 Letter from Christine Smith to Martha Smith, March 9, 1944
