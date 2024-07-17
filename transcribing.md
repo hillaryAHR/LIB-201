@@ -9,30 +9,26 @@ Furthermore, transcribing makes physical documents, especially handwritten docum
 <hr>
 
 In this module, you will learn:
-* Basic transcribing guidelines
-* How to create and edit text regions in Transkribus
-* How to use style and metadata tags in Transkribus
+* Basic transcribing guidelines for the Smith Papers Collection
+* How to annotate letters with additional metadata tags for digital scholarship purposes
 
 ## Lessons
 1. [Transcribing Guidelines](#1-transcribing-guidelines)
-2. [Text Regions in Transkribus](#2-text-regions-in-transcribus)
-3. [Handwritten Text Recognition](#3-handwritten-text-recognition)
-4. [Metadata Tags](#4-metadata-tags)
-5. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus)
+2. [Metadata Tags](#4-metadata-tags)
+<!--3. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus) saving files?-->
 
 ## Required before beginning the lesson
 ### Reading
 * Woodford, Chris. 2021. "Optical Character Recognition," _Explain that Stuff_, https://www.explainthatstuff.com/how-ocr-works.html. 
 * <a href="https://docs.google.com/document/d/1Vo_YCCW18aam14CnAG8KyYYDlV37zODsFaqP_6_Flgk/edit?usp=sharing">"About the Smith Papers Collection."</a> This document gives context for the letters and describes the main contributors. Read this before you begin transcribing. 
+* Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions
 
 ### Installations
-* Transkribus: https://readcoop.eu/transkribus/?sc=Transkribus (<a href="https://readcoop.eu/transkribus/wiki/download-and-installation/">Installation Instructions here.</a> *Be sure you have Java 8 installed before installing Transkribus.* This is in the instructions, but not in the first step. If you run into an issue, email your instructor!)
+- **A Text editor.** Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and works within your browser (by typing the period ```.``` in a github markdown page). To install, visit https://code.visualstudio.com/. Click "Download for..." your operating system.
 
 ## Further reading (optional)
-*  Transkribus Transcribing Conventions, 2021. Read Co-op,  https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/.
-* Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions
-* YouTube video of Hillary introducing Transkribus: https://youtu.be/szGPn0K_WWE
-* YouTube video of Hillary transcribing a letter from beginning to end: https://youtu.be/-cDD9P0rnLw 
+<!--* YouTube video of Hillary introducing Transkribus: https://youtu.be/szGPn0K_WWE
+* YouTube video of Hillary transcribing a letter from beginning to end: https://youtu.be/-cDD9P0rnLw -->
 * Interview with Bridget and Steve Pieschel about the contents of the Smith Papers letters: https://youtu.be/zPynkw9V-Q8
 
 # 1. Transcribing Guidelines
@@ -54,14 +50,14 @@ In order to maintain the integrity of your original document while you are trans
 * Make note of things you don't understand, and Google them to see if you can make sense of the reference.
 * You might find something interesting that you want to come back to! Take notes of the letters you transcribe, and what you find interesting about them.
 
-While it is long, I highly recommend watching <a href="https://youtu.be/-cDD9P0rnLw">this video</a> of transcribing a letter from start to finish. Feel free to follow along in corresponding sections! 
+<!--While it is long, I highly recommend watching <a href="https://youtu.be/-cDD9P0rnLw">this video</a> of transcribing a letter from start to finish. Feel free to follow along in corresponding sections! -->
 
 ## Check-in
 
-Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/19899/quizzes/78702">0.Transcribing Check-in</a>. 
+Practice transcribing a few lines, staying true to the original text with the <a href="https://muw.instructure.com/courses/22335/quizzes/93982">1.Transcribing Check-in</a>. 
 
 
-# 2. Text Regions in Transkribus
+<!--# 2. Text Regions in Transkribus
 
 Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and what order to read that text! (Remember, computers aren't smart enough to read like humans!)
 
@@ -121,15 +117,27 @@ We are using the Transkribus software because it allows you to create Handwritte
 5. After you've completed editing the transcription, go back over the letter, making sure you didn't miss typos, and you can simultaneously begin tagging the document, which will be explained in the next lesson! 
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78708">3.Transcribing Check-in</a> here.
-
-# 4. Metadata Tags
+Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78708">3.Transcribing Check-in</a> here.-->
+# 2. Metadata Tags
 
 Tagging, annotating, or marking-up a document is a common practice for text analysis. Why is this? Think about the things someone might talk to you about in a letter. They might mention people they talked about, places they went, or a book they read. Now think about the contents of 6,000 letters, and all of this information together! Tagging will allow us to use the information in the collection of thousands of letters to track these trends over time, explore topics, and find people. 
 
-Think of tagging the letter like highlighting categories of information with a different color highlighter. All of the people's names are blue, the places are purple, etc. Transkribus does the same thing.
+Think of tagging the letter like highlighting categories of information with a different color highlighter. All of the people's names are blue, the places are purple, etc. Instead of highlighting them, we're going to copy the information into a spreadsheet.
 
-## Categories of metadata tags
+## TEI and XML and CSV and...
+
+A commonly accepted practice for tagging letters is to create encoded documents using the Text Encoding Initiative (TEI) schema. <a href="https://tei-c.org/">TEI</a> is a widely accepted *metadata schema* for annotating a text to use in digital editions. To create TEI encoded documents, you either need to know how to code in XML, or you can pay for a program to help you create this code (<a href="https://www.oxygenxml.com/xml_editor/tei_editor.html">oXygen</a> is a popular one). 
+
+Here's an example of a letter that has been encoded with TEI tags:
+[![screenshot of a letter to Carrie Miner Sherwood from the Willa Cather Archive](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/willacather-html.png)](https://cather.unl.edu/writings/letters/let1015) 
+
+And here's an example of the file that houses that encoding:
+
+[![screenshot of XML version of Willa Cather's letter to Carrie Miner Sherwood](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/willacather-xml.png)](https://cdrhmedia.unl.edu/data/cather-complete-letters/source/tei/cat.let1015.xml)
+
+This is a way to preserve the complexities of annotated metadata in a way that a computer can easily translate and store it for online interaction. However, since we are not going to pay for a program or learn XML from scratch in this class, we are going to create a CSV (comma separated values) file - or a spreadsheet! - of our annotations. We'll use these spreadsheets in later meetings to recall various information about any given letter.
+
+## How to create metadata tags
 
 It is tempting to tag everything, but not necessary! You only need to tag:
 1. Important words (e.g. people and places)
@@ -138,44 +146,44 @@ It is tempting to tag everything, but not necessary! You only need to tag:
 
 ## Metadata tags, defined.
 
-Here are the tags we have, to this point, decided to use for the Smith Collection, and their definitions. (For the info below in a Google Doc, click <a href="https://docs.google.com/document/d/1zpzWtUEvXBDhJAt9xNxpp4Kif2ov4V-y1nGntZbPqyo/edit?usp=sharing">here</a>. And for more info about how Transkribus feels about tags, click <a href="https://readcoop.eu/transkribus/howto/how-to-enrich-transcribed-documents-with-mark-up/">here</a>.) 
+Here are the tags we have, to this point, decided to use for the Smith Collection, and their definitions. (For the info below in a Google Doc, click <a href="https://docs.google.com/document/d/1TYUYULRw9wn2QC7lsIZipOcVh0ouDj7qCxGah1KsXro/edit?usp=sharing">here</a>.) 
 
 1. **person** - when any person’s name is mentioned within the body of the letter (e.g. “Daddy,” Martha, Gilbert, etc.)
 2. **place** - when a place name is mentioned within the body of the letter. This does not usually include general places like Sunday school or hospital. Examples would be town names like Bruce or Memphis.
 sender - The person who sent the letter, either in the return address, or in the letter’s closing.
 3. **recipient** - The person the letter is addressed to, either on the envelope, or in the salutation.
 4. **sender** - The person who wrote the letter. They usually put their name in the return address and in the signature.
-4. **address** - The address the letter was sent to.
-5. **return-address** - the address the letter came from (not always included)
-6. **organization** - a specific group, corporation, or entity (e.g. the Senate, the T.V.A., or Ole Miss), not a generic place like hospital or school.
-7. **sic** - for an error in the original letter (i.e. spelling, grammar, etc.) that you include it in the transcript for accuracy, tag it with “sic,” showing that it’s “as is,” and you didn’t make the error in transcribing.
-8. **title** - the title of a book, play, radio show, government decision, etc. Anything that is published, for example. Specifications may include full title, author, and publication date.
-9. **date** - a specific date (e.g. January 15th, 1948). This does not include general references to days of the week or years (e.g. “Saturday nite” or “next year.”)
-10. **unclear** - when you write something in the transcription, but aren’t sure of what it actually says in the letter: a guess.
-11. **gap** (formerly supplied) - when you include something (i.e. [illegible], a note, etc.) that isn’t in the original letter to give clarity, but to prevent the HTR from picking up the note.
+5. **address** - The address the letter was sent to.
+6. **return-address** - the address the letter came from (not always included)
+7. **organization** - a specific group, corporation, or entity (e.g. the Senate, the T.V.A., or Ole Miss), not a generic place like hospital or school.
+8. **sic** - for an error in the original letter (i.e. spelling, grammar, etc.) that you include it in the transcript for accuracy, tag it with “sic,” showing that it’s “as is,” and you didn’t make the error in transcribing.
+9. **title** - the title of a book, play, radio show, government decision, etc. Anything that is published, for example. Specifications may include full title, author, and publication date.
+10. **date** - a specific date (e.g. January 15th, 1948). This does not include general references to days of the week or years (e.g. “Saturday nite” or “next year.”)
+11. **unclear** - when you write something in the transcription, but aren’t sure of what it actually says in the letter: a guess.
+12. **comment** - to provide supplementary information about something going on in the text. For example, if you notice the handwriting is not the same as the letter writer's you can use the comment tag to say "handwriting not original to sender." Or if someone has used the envelope to make a grocery list, you can use a comment to explain what's happening so that the reader won't be confused by the string of random items in the transcript.
 
 ## How to tag something
 
-1. To tag something, highlight the text you want to tag, right-click, and from “All tags,” select the relevant tag.
+1. To tag something, open the tags spreadsheet from the corresponding folder in Google Drive. Copy the text you want to tag, and paste it into the "text" column in the sheet. *Tip: try not to include punctuation or extra spaces in the text you copy!* If you aren't sure whether or not something should be tagged, or what that tag should be, ask the Teams channel!
 
-![Screenshot of how to tag something](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/tag-screenshot.png)
+![Screenshot of how to tag something](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/tag-screenshot-rev.png)
 
-2. If the tag isn’t in the list, go to the metadata menu, then the Textual menu, and click Customize. 
+2. In the spreadsheet, add the corresponding tag to the "tag" columm
 
-![Screenshot of customize tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/customize-tag.JPG)
+<!--![Screenshot of customize tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/customize-tag.JPG)-->
 
-3. Click “Create new tag,” then type in the name of the tag, lowercase, like it’s shown in the Tag definitions document. 
+3. In the "notes" column, add supplementary information about the tag. For example, if you tag a text with ```comment```, you can write the comment here. Or if you want to identify someone that the letter writer calls "S.B.", you can write "Smith, Sam Ellard" in the notes column.
 
-![Screenshot of creating a new tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/create-new-tag.JPG)
+<!--![Screenshot of creating a new tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/create-new-tag.JPG)-->
 
 ## Check-in
 Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/19899/quizzes/78697">4.Transcribing Checkin</a>.>
 
-As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.
+<!--As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.-->
 
-At the end of this lesson, you should be able to fill out the full transcription and tags in your letters, and turn them in in Canvas.
+At the end of this lesson, you should be able to fill out the full transcription and tags in your letters, and turn them in in Canvas. Transcription files will be saved as .txt, and tag files will be saved as .csv.
 
-# 5. Exporting files in Transkribus
+<!--# 5. Exporting files in Transkribus
 After you have transcribed (or corrected a transcription of) a letter, tagged it, and proofed it, it has been digitally transformed, and we can now do fun things with the transcriptions and metadata. But before you can do that, you have to export the files. 
 
 Before the step-by-step, I recommend watching the 3-minute video on this process: https://youtu.be/k21t3jGL4LM. 
@@ -202,5 +210,5 @@ Saving them as compressed files stores them to your computer, but does not let y
 
 After you extract the files, you should notice that your folder no longer has a zipper on it, and you have 3 files that represent digital versions of the letter you prepared. You are now ready to start playing with these digital artifacts!
 
-<!--Link to upload exported letters in Canvas-->
+Link to upload exported letters in Canvas? -->
 
