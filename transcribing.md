@@ -168,20 +168,29 @@ sender - The person who sent the letter, either in the return address, or in the
 
 ![Screenshot of how to tag something](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/tag-screenshot-rev.png)
 
-2. In the spreadsheet, add the corresponding tag to the "tag" columm
+2. In the spreadsheet, add the corresponding tag to the "tag" column. Choose from one of the pre-defined tags
 
 <!--![Screenshot of customize tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/customize-tag.JPG)-->
 
-3. In the "notes" column, add supplementary information about the tag. For example, if you tag a text with ```comment```, you can write the comment here. Or if you want to identify someone that the letter writer calls "S.B.", you can write "Smith, Sam Ellard" in the notes column.
+3. In the "notes" column, add supplementary information about the tag that meets the criteria we determine in class dicussion. For example, if you tag a text with ```comment```, you would write the comment here. Or if you want to identify someone that the letter writer calls "S.B.", you can write "Smith, Sam Ellard" in the notes column.
 
 <!--![Screenshot of creating a new tag](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/create-new-tag.JPG)-->
 
-## Check-in
-Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/19899/quizzes/78697">4.Transcribing Checkin</a>.>
-
 <!--As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.-->
 
-At the end of this lesson, you should be able to fill out the full transcription and tags in your letters, and turn them in in Canvas. Transcription files will be saved as .txt, and tag files will be saved as .csv.
+At the end of this lesson, you should be able to fill out the full transcription and tags in your letters, and turn them in in Canvas. After all is said and done, you've translated a letter to a .pdf file (the image of the letter) to a .txt file (the transcription) and a .csv file (the tags). We will use all of these files for different purposes going forward!
+
+PDF ->
+![image of letter](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/example-letter-pdf.png)
+
+TXT ->
+![image of transcript](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/example-letter-txt.png)
+
+CSV ->
+![image of tags spreadsheet](https://github.com/hillaryAHR/LIB-201/blob/main/transcribing-images/example-letter-csv.png)
+
+## Check-in
+Tags are sort of tricky! Let's go over the different scenarios in the next <a href="https://muw.instructure.com/courses/22335/quizzes/93995">2.Transcribing Checkin</a>.>
 
 <!--# 5. Exporting files in Transkribus
 After you have transcribed (or corrected a transcription of) a letter, tagged it, and proofed it, it has been digitally transformed, and we can now do fun things with the transcriptions and metadata. But before you can do that, you have to export the files. 
