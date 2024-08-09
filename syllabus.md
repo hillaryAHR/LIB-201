@@ -1,6 +1,5 @@
 # Introduction to Digital Research
-Fall 2024 (August 21 - December 3) Tuesdays, 2:00pm - 4:50pm
-Library, Seminar B
+Fall 2024 (August 21 - December 3) Tuesdays, 2:00pm - 4:50pm, Library, Seminar B
 
 **Instructor**: Hillary Richardson, Assoc. Prof/Coordinator of Undergraduate Research and Information Literacy
 **Contact me**: hhrichardson@muw.edu or 662-329-7334
@@ -32,9 +31,9 @@ This class is not unlike a traditional introduction to research class. We will p
     * Google Drive (use your myapps email)
     * Microsoft Teams (use your app in Office 365, via WConnect. **Recommended**: Download the app on your phone and allow notifications)
     * <a href="https://asana.com/">Asana</a> (This is a free, browser application that you'll receive an invite to)
-    * <a href="https://readcoop.eu/transkribus/?sc=Transkribus">Transkribus</a> (Installation instructions found <a href="https://readcoop.eu/transkribus/howto/how-to-download-install-and-run-transkribus/">here</a>)
     * <a href="https://code.visualstudio.com/">Visual Studio Code</a> (Installation instructions found <a href="https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/">here</a>)
     * <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> (No installation necessary; browser application)
+    * <a href="https://libguides.muw.edu/DSL">Digital Scholar Lab</a> - available through the Library's Database A-Z list (Will require your 950 number if accessing off campus)
     * Other applications TBD
 
 ## Course expectations:
@@ -63,6 +62,6 @@ This class is not unlike a traditional introduction to research class. We will p
 | 4: Network Analysis | Network Analysis Graph |
 | 5: Spatial Analysis | Map or Timeline (TBD) |
 | 6: Textual Analysis | Text analysis visualization |
-| 7: Narrative Exhibit | Digital Exhibit|
+| 7: Narrative Exhibit | Digital Exhibit |
 
 
