@@ -12,7 +12,7 @@ This class is not unlike a traditional introduction to research class. We will p
 
 ## Course Objectives:
 * Prepare metadata for a circumscribed dataset in the MUW Archives for public use by students and scholars
-* Design group and individual mini-research projects that experiment with various digital tools and methods creating a strategy for the project and documenting progress toward defined goals
+* Design group and individual mini-research projects that experiment with various digital tools, methods, and data, creating a strategy for the project and documenting progress toward defined goals
 * Discuss and explore various ethical, sociocultural, and technological issues associated with digital research and publishing
 * Synthesize the process of a digital project into a reflective narrative that shares coursework with the public, and pinpoints the goals of the project, the challenges faced, and the strategies used to complete those goals.
 
