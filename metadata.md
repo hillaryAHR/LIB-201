@@ -16,13 +16,12 @@ In this lesson, you will:
 4. [Library of Congress Subject Headings](#4-library-of-congress-subject-headings)
 5. [Project and Data Management](#5-project-and-data-management)
 
-## Required Reading
-- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/files/2080084/download?download_frd=1">Available for LIB 201 students in Canvas</a>).
+## Background Reading
+- Drucker, Johanna. "Ontologies and Metadata Standards," _Introduction to Digital Humanities_ 2014, pp 24-27. (<a href="https://muw.instructure.com/courses/22335/files/2603322?module_item_id=798257">Available for LIB 201 students in Canvas</a>).
+- <a href="https://muw.instructure.com/courses/22335/modules/items/798278">Metadata Guidelines for the Smith Papers</a>
 - Schöch, Christof, 2013. "Big? Smart? Clean? Messy? Data in the Humanities," _The Dragonfly's Gaze_ (revised and published in _Journal of Digital Humanities_ 2(3).) https://dragonfly.hypotheses.org/443
-- Hanna, Laurel 2021, "Pitts Staff Works to Counteract Racism in Library Catalog." _Candler News and Events_, Emory, Candler School of Theology, https://candler.emory.edu/news/releases/2021/01/pitts-staff-works-to-counteract-racism-in-library-catalog.html 
+- Hanna, Laurel 2021, "Pitts Staff Works to Counteract Racism in Library Catalog." _Candler News and Events_, Emory, Candler School of Theology, https://candler.emory.edu/pitts-staff-works-to-counteract-racism-in-library-catalog/ 
 - Ketchley, Sarah. "Planning & Managing Digital Projects," _DH in Practice Coursebook_. pp 46-55.(<a href="https://muw.instructure.com/files/2080070/download?download_frd=1">Available for LIB 201 students in Canvas</a>). 
-
-## Further Reading (optional)
 - Erin Baucom, 2018. "An exploration into archival descriptions of LGBTQ Materials. _The American Archivist_, 81(1): 65-83. doi: https://doi.org/10.17723/0360-9081-81.1.65 
 
 ## Ethical considerations
@@ -52,11 +51,11 @@ Now, think about this as it pertains to a box of letters that have been scanned.
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/smith-letter-example.jpg" alt="screenshot of an envelope and a letter from the Ellard-Murphree-Pilgreen Smith letters" width="" height="">
 
 ## Check in
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78694"> 1.Metadata Check-in</a> here before moving to the next section.
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/94007"> 1.Metadata Check-in</a> here before moving to the next section.
 
 # 2. Metadata Standards
 
-Similar to citation guidelines (e.g. MLA, APA, Chicago, etc.), digital items use a schema to organize and standardize their formatting. For instance, websites use HTML and CSS to communicate things to browsers, library databases use specific fields to link similar online articles to each other, and so on. This is a way to classify different kinds of metadata, define the information for each kind, and set rules for each kind (e.g. whether or not the field requires certain information or not). 
+Similar to citation guidelines (e.g. MLA, APA, Chicago, etc.), digital items use a schema to organize and standardize their formatting (See Drucker, <a href="https://muw.instructure.com/courses/22335/files/2603322?module_item_id=798257">"Ontologies and Metadata Standards"</a>). For instance, websites use HTML and CSS to communicate things to browsers, library databases use specific fields to link similar online articles to each other, and so on. This is a way to classify different kinds of metadata, define the information for each kind, and set rules for each kind (e.g. whether or not the field requires certain information or not). 
 
 For the Smith Papers collection, we are using a common metadata standard/schema called <a href="https://dublincore.org/specifications/dublin-core/dcmi-terms/#type">Dublin Core</a>, which takes its name from Dublin, OH where it was created. It’s used by many libraries and cultural heritage institutions to describe both digital and physical objects. In doing this, we: 
 * give the collection structure
@@ -67,7 +66,7 @@ In other words, our metadata standards give guidelines for how to treat the 100+
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/metadata-guidelines.jpg" alt="different ways to write the same name" width="" height="">
 
-Open our <a href="https://drive.google.com/file/d/1VWQTiwhEMFcbKQ_ZEUV5GIFLGeSQCDpZ/view?usp=sharing"> guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
+Open our <a href="https://muw.instructure.com/courses/22335/modules/items/798278"> metadata guidelines for the Smith Collection</a> in another tab, and look at the different field names in the column headings. This is where the magic happens!
 
 ## Check-in
 
@@ -148,17 +147,16 @@ Using the letter below and the <a href="https://drive.google.com/file/d/1VWQTiwh
 
 <a href="https://drive.google.com/file/d/1o8SgzeV3L25o1e83y_uvMR0yYYOvmKat/view?usp=sharing"> Click here to access the letter</a> 
 
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78686">3.Metadata check-in</a> here. 
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/94006">3.Metadata check-in</a> here. 
 
 <!--* Object Identifier
 * Title 
 * Description-->
 <!--add more of these-->
 
-
 # 4. Library of Congress Subject Headings
 
-You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together. Books in the library are sorted and grouped by these subject headings, so we can explore information on the same topic in one physical location. What kind of books do you think are next to the one below?
+You'll notice there are a lot of ways we describe each letter. Whew! So why subject headings? Subject Headings, like metadata standards, use "controlled vocabulary," meaning you can group things together by category, so they'll be <a href="https://en.wikipedia.org/wiki/Library_of_Congress_Linked_Data_Service"> linked</a> by topic. For instance, if I used the subject heading "Dating (Social Customs)" -- and we do! -- all of the letters with that designation can be grouped together for easier researching. Books in the library are sorted and grouped by these subject headings, so we can explore information on the same topic in one physical location. What kind of books do you think are next to the one below?
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/metadata-images/catalog-screenshot.PNG" alt="image of a book record in the catalog for _Ellen S. Woodward: New Deal Advocate for women_ by Martha Swain, with subject headings highlighted" width="" height="">
 
@@ -166,7 +164,7 @@ There are a number of <a href="https://id.loc.gov/authorities/subjects.html"> pr
 
 ## Determining Subject Headings
 
-Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intricacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to check this list: <a href="https://docs.google.com/spreadsheets/d/1BO11mkUuw9EiIyzq-UrUX9WgRukj21qW/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">Smith Papers Authority headings</a>.
+Subject headings can be confusing because there are so many of them, and just like words, you can use any number of words to describe something! <!--It is something some people get master's degrees in, after all. But we are not here to delve into the intricacies of the subject heading.--> In order to help with this for the Smith Papers collection, we have gathered several subject headings that are common to the collection. So your first step to choosing a subject heading will be to reference this list: <a href="https://docs.google.com/spreadsheets/d/13ewnj63s9h4bnBP7A5T-eCbTuvFVG4DwAJKDay4oESw/edit?usp=sharing">Smith Papers LCSH Subject headings</a>.
 
 If the contents of your letter do not quite go with the suggested headings, then your next step is to look something up with similar topics, and choose a subject heading from there. Here's what that looks like.
 
@@ -182,10 +180,10 @@ If the contents of your letter do not quite go with the suggested headings, then
 In this example, ```Motion pictures``` is broadly used enough in this list of results, and it captures the meaning that the people in the letters are using, since they are talking about going to a movie theatre to see a motion picture, so we'll go with that!
 
 ## Bias in Subject Headings
-Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people. Recently, catalogers have rewritten guideline to change the subject heading "illegal alien" to "undocumented immigrant." In the first heading, the person was criminalized, and in the second heading, the phrase is descriptive, and not as loaded. When choosing a subject heading, keep in mind the consequences of your words.Another example is the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities."</a> In addition to not being very descriptive, it is often a loaded term that de-humanizes a group of people. Your job in choosing a subject heading is to create a helpful category for users who are interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
+Let's pause. Controlled vocabularies are great for consistency and linking things, but they can also be problematic, especially when it comes to describing historically marginalized people (See articles by <a href="https://candler.emory.edu/pitts-staff-works-to-counteract-racism-in-library-catalog/">Hanna</a> and <a href="https://doi.org/10.17723/0360-9081-81.1.65">Baucom</a>). Recently, catalogers have rewritten guideline to change the subject heading "illegal alien" to "undocumented immigrant." In the first heading, the person was criminalized, and in the second heading, the phrase is descriptive, and not as loaded. When choosing a subject heading, keep in mind the consequences of your words.Another example is the subject heading <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/results?qu=Minorities.&lm=MUWITEMS&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject">"minorities."</a> In addition to not being very descriptive, it is often a loaded term that de-humanizes a group of people. Your job in choosing a subject heading is to create a helpful category for users who are interacting with items in a collection. If you came across a folder of photographs labeled "minorities," what would you expect to find? Even if you didn't know what was in there, what would be more specific, more helpful, or more appropriate?
 
 ## Check-in
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78705">4.Metadata check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/94003/">4.Metadata check-in</a> here.
 
 # 5. Project and Data management
 By this point, you have seen how much behind-the-scenes work that goes into creating metadata from scratch! It's a lot! And this is just when you're creating metadata on your own. **But we are working as a group!** We will discuss what we'll need to do as a group in class, but consider these parts of project and data management that are embedded in creating digital scholarship.
@@ -241,7 +239,7 @@ Last, but not least, it's important to consider the principals under which you'l
 * <a href="http://www.scottbot.net/HIAL/index.html@p=6336.html">"Pledges," from Scott Weingart's blog</a>
 
 ## Project Management Plan
-Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/19899/quizzes/78706">the questions in the Data and Project Management Plan</a> in Canvas. <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
+Use these 4 sections - Progress, Preservation, Communication, and Principles - to answer <a href="https://muw.instructure.com/courses/22335/quizzes/94004">the questions in the Data and Project Management Plan</a> in Canvas. <!--link to existing project/data management plan here? https://docs.google.com/document/d/1d45FDLsrycW5NH5WUWdToStkvSNz7R-3EV50Y-fgKMU/edit?usp=sharing-->
 
 
 <!--section on project pitch?-->
