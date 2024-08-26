@@ -17,23 +17,21 @@ In this module, you will learn:
 2. [Metadata Tags](#4-metadata-tags)
 <!--3. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus) saving files?-->
 
-## Required before beginning the lesson
-### Reading
+## Background Reading
 * Woodford, Chris. 2021. "Optical Character Recognition," _Explain that Stuff_, https://www.explainthatstuff.com/how-ocr-works.html. 
 * <a href="https://docs.google.com/document/d/1Vo_YCCW18aam14CnAG8KyYYDlV37zODsFaqP_6_Flgk/edit?usp=sharing">"About the Smith Papers Collection."</a> This document gives context for the letters and describes the main contributors. Read this before you begin transcribing. 
 * Smithsonian, "General Instructions for Transcription and Review," https://transcription.si.edu/instructions
+* Interview with Bridget and Steve Pieschel about the contents of the Smith Papers letters: https://youtu.be/zPynkw9V-Q8
 
-### Installations
+## Installations
 - **A Text editor.** Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and works within your browser (by typing the period ```.``` in a github markdown page). To install, visit https://code.visualstudio.com/. Click "Download for..." your operating system.
 
-## Further reading (optional)
 <!--* YouTube video of Hillary introducing Transkribus: https://youtu.be/szGPn0K_WWE
 * YouTube video of Hillary transcribing a letter from beginning to end: https://youtu.be/-cDD9P0rnLw -->
-* Interview with Bridget and Steve Pieschel about the contents of the Smith Papers letters: https://youtu.be/zPynkw9V-Q8
 
 # 1. Transcribing Guidelines
 
-In order to maintain the integrity of your original document while you are translating it for the computer, consider a few things while you're transcribing.
+In order to maintain the integrity of your original document while you are translating it for the computer, consider a few things while you're transcribing (See Smithsonian guidelines!).
 
 ## Stay as true to the document as you can!
 * Include all text as it is written. This includes errors in spelling and grammar, and words you might not be familiar with. Transcribing is NOT editing!
@@ -140,7 +138,7 @@ This is a way to preserve the complexities of annotated metadata in a way that a
 ## How to create metadata tags
 
 It is tempting to tag everything, but not necessary! You only need to tag:
-1. Important words (e.g. people and places)
+1. Words you'd consider important to the collection (e.g. people, places, institutions, etc.)
 2. When you add something for clarity that isn't there originally (e.g. "[illegible]"). 
 3. If you want to provide further information as context. 
 
