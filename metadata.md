@@ -70,7 +70,7 @@ Open our <a href="https://muw.instructure.com/courses/22335/modules/items/798278
 
 ## Check-in
 
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78685">2.Metadata Check-in</a> here.
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93989">2.Metadata Check-in</a> here.
 
 # 3. Metadata Guidelines for the Smith Papers
 
