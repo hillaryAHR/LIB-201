@@ -1,7 +1,7 @@
 ﻿# Introduction to Network Analysis
 A Network Analysis is simply a study of relationships among a group of connected things. The "things" could be people, cities, cells in the body, etc.! The idea of a network analysis is to visualize these relationships, so you can see the patterns (or lack thereof) in connections within the network.
 
-<img src="https://assets.datacamp.com/production/project_76/img/got_network.jpeg" alt="sample network analysis graph that uses Game of Thrones characters, with largest nodes including Tyrion in light blue, Daenerys in green, and Jon in purple." class="center">
+![sample network analysis graph that uses Game of Thrones characters, with largest nodes including Tyrion in light blue, Daenerys in green, and Jon in purple](https://assets.datacamp.com/production/project_76/img/got_network.jpeg)
 
 We use network analysis to ask questions about the relationships in and among a group, like 
 * Who is the most/least influential person?
