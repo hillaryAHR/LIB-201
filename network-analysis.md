@@ -1,17 +1,17 @@
 ﻿# Introduction to Network Analysis
 A Network Analysis is simply a study of relationships among a group of connected things. The "things" could be people, cities, cells in the body, etc.! The idea of a network analysis is to visualize these relationships, so you can see the patterns (or lack thereof) in connections within the network.
 
-<img src="https://networkofthrones.files.wordpress.com/2020/01/got-all8.png" alt="sample network analysis graph that uses Game of Thrones characters, with largest nodes including Tyrion in light blue, Daenerys in green, Jon in orange, Arya in yellow, and Sansa in pink. From https://networkofthrones.wordpress.com/the-series/seasons-1-8/" class="center">
+<img src="https://assets.datacamp.com/production/project_76/img/got_network.jpeg" alt="sample network analysis graph that uses Game of Thrones characters, with largest nodes including Tyrion in light blue, Daenerys in green, and Jon in purple." class="center">
 
-We use network analysis to ask questions about the players in the network, like 
-* Who is the most/least influential?
+We use network analysis to ask questions about the relationships in and among a group, like 
+* Who is the most/least influential person?
 * What are some of the roles of the different things in this network?
 * How connected are the things in this network?
 * Are there distinct subgroups or "neighborhoods" in this network?
 
 For the Smith Papers collection, we are asking these questions, more or less! 
 
-| Question | Smith Papers Translation |
+| Question | Smith Papers Example |
 | ------------------------- | --------------------- |
 | Who is the most influential? | Which person wrote the most letters to the most people? |
 | How connected is this network? | Did everyone write letters to each other, or just some people? |
@@ -31,36 +31,35 @@ For the Smith Papers collection, we are asking these questions, more or less!
 3. [Data Modeling for Visualizing a Network](#3-data-modeling-for-visualizing-a-network)
 4. [Software for visualizing a network analysis](#4-software-for-visualizing-a-network-analysis)
 
-## Required Readings:
+## Background Readings:
 * Rawson and Muñoz, "Against Cleaning." 2016. *Curating Menus*,  http://curatingmenus.org/articles/against-cleaning/. 
 * Scott Weingart, 2011. "Demystifying Networks," _Journal of Digital Humanities_ 1(1). http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/ 
-
-## Further Readings and tutorials (optional)
-* Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/ 
+<!--* Thomas Padilla and Brandon Locke. "Introduction to Network Analysis." http://www.thomaspadilla.org/cytoscape/--> 
 * Miriam Posner, "Network Analysis." http://miriamposner.com/classes/dh101f16/tutorials-guides/data-visualization/network-analysis/ 
 * Scott Weingart, 2015, "Networks Demystified 9: Bimodal networks." http://www.scottbot.net/HIAL/index.html@p=41158.html
 * Palladio Tutorial and FAQs. https://hdlab.stanford.edu/palladio/help/
-* Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
+<!--* Miriam Posner, "Creating a Network Graph with Gephi." http://miriamposner.com/dh101f14/wp-content/uploads/2014/11/Creating-a-Network-Graph-with-Gephi.pdf
 * Katayoun Torabi. Introduction to Gephi. 2020 Programming4Humanists Presentation
-* Programming Historian, "From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources." https://doi.org/10.46430/phen0044 
-
-## Ethical Considerations:
-
-Network analysis visualizations are excellent ways to show what's going on in a complex network, but they cannot stand alone! Even the most clearly labeled network needs context. When you are creating a networked graph, include some writing that gives context to the network, and shows the things you chose to highlight. Then include that explanation alongside the graph in an accessible way. 
-
-Another thing to consider when making highly visual graphs is how accessible your visualization may or may not be to everyone, including those with visual impairments. Consider the following when designing a graph:
-* Are your labels large enough to read?
-* Are the colors <a href="https://webaim.org/resources/contrastchecker/">in high enough contrast </a> to distinguish from each other? 
-* Is there alternate text or description somewhere that explains the graph with as clearly worded text as possible?
-
-## Check-in 
-
-Before we keep going, click and log in to Canvas for the <a href="https://muw.instructure.com/courses/19899/quizzes/78707"> 0.Network Analysis check-in</a>.
+* Programming Historian, "From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources." https://doi.org/10.46430/phen0044 -->
+* Wickham, Hadley, 2014. "Tidy Data." <a href="https://vita.had.co.nz/papers/tidy-data.pdf">_Journal of Statistical Software_</a>
 
 ### Acknowledgements
 * Lecture notes from Dr. Katayoun Torabi, Programming for Humanists Instructor, Center of Digital Humanities Research at Texas A&M University. http://programming4humanists.tamu.edu/
 * Images of sample networks from https://www.coursera.org/lecture/networks-illustrated/closeness-centrality-part-ii-cqA9S
 * Images of steps in Palladio used from https://hdlab.stanford.edu/palladio/tutorials/data/.
+
+## Ethical Considerations:
+
+Network analysis visualizations are excellent ways to show what's going on in a complex network, but they cannot stand alone! Even the most clearly labeled network needs context. When you are creating a networked graph, include some writing that gives context to the network, and shows the things you chose to highlight. Then include that explanation alongside the graph in an accessible way. 
+
+Another thing to consider when making highly visual graphs is how **accessible** your visualization may or may not be to everyone, including those with visual impairments. Consider the following when designing a graph:
+* Are your labels large enough to read? Is the text distinct enough?
+* Are the colors <a href="https://webaim.org/resources/contrastchecker/">in high enough contrast </a> to distinguish from each other? 
+* Is there alternate text or description somewhere that explains the graph with as clearly worded text as possible?
+
+## Check-in 
+
+Before we keep going, click and log in to Canvas for the <a href="https://muw.instructure.com/courses/22335/quizzes/94002"> 0.Network Analysis check-in</a>.
 
 # 1. Network Analysis Terms
 Most softwares that facilitate Network Analyses use a different vocabulary. You'll learn about what each part of a network is in this section, and in the next section, we'll talk about different ways analyze those parts. 
@@ -68,12 +67,12 @@ Most softwares that facilitate Network Analyses use a different vocabulary. You'
 ## Networks
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide3.JPG" alt="example of a simple network with 6 green and pink nodes and edges" width="" height="" /></p>
 
-A network is a visual representation of relationships between entities. The network alone does not always share the context of the relationships (e.g. "These are people who talk to each other in this book," or "These are the flight paths among major airlines,"), but they do highlight relationships. In doing so, they show how different players dominate (or not!) those relationships.
+A network is a visual and mathematical representation of relationships between entities. The network alone does not always share the context of the relationships (e.g. "These are people who talk to each other in this book," or "These are the flight paths among major airlines,"), but they do highlight a link, or a relationship. In doing so, they show how different players dominate (or not!) those relationships.
 
 ## Nodes
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide5.JPG" alt="example of a simple network the nodes circled" width="" height="" /></p>
 
-A node represents someone or something in the network. For the Smith Papers project, it will most likely be a person. Nodes can be different colors, depending on how influential they are, what subgroups within the network they belong to, etc. 
+A node represents someone or something within the network. For the Smith Papers project, it will most likely be a person. Nodes can be different colors, depending on how influential they are, what subgroups within the network they belong to, etc. 
 
 ## Edges
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide6.JPG" alt="example of a simple network the edges highlighted" width="" height="" /></p>
@@ -90,13 +89,13 @@ Edges represent the relationships between nodes. They usually indicate some kind
 ## Paths
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide4.JPG" alt="example of a simple network with 6 nodes connected by 7 edges" width="" height="" /></p>
 
-Paths are the length from one node to the next. In this image, the path length from Ben to Anna is 1, but the path length from Ben to Cara is 2, and so on. The average length of each path will tell us how _dense_ the network is, or in other words, how connected everyone is to each other. If everyone is connected to everyone by 1 path, the network is 100% dense! 
+Paths are the length (in intervals) from one node to the next. In this image, the path length from Ben to Anna is 1, but the path length from Ben to Cara is 2, and so on. The average length of each path will tell us how _dense_ the network is, or in other words, how connected everyone is to each other. If everyone is connected to everyone by 1 path, the network is 100% dense! 
 
 ...just a few more terms! Stick with me!...
 
 ## Check-in
 
-Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78698">1.Network Analysis</a> check-in.
+Click to login to Canvas and complete the <a href="https://muw.instructure.com/courses/22335/quizzes/94001">1.Network Analysis</a> check-in.
 
 # 2. Analyzing relational data
 Did that phrase make your stomach turn? Don't worry! We are not actually doing math in this class, but we will be using mathematic concepts. We analyze networks by calculating the ways nodes influence each other. Let's break it down.
@@ -107,21 +106,21 @@ Did that phrase make your stomach turn? Don't worry! We are not actually doing m
 
 Centrality is the relative influence of individual nodes within the network. In the image above, the nodes have different sizes and colors to indicate their influence. Notice that Pauline has several direct connections, so they are the largest node. Other nodes, like Martha, have fewer connections, and therefore appear smaller. From this, we infer that Pauline has a more influential role in the network. 
 
-For this class, we will measure centrality with 3 different metrics:
+For this class, we will discuss centrality with 3 different ideas:
 * Degree
 * Closeness
 * Betweenness
 <!--* Eigenvector (!)-->
 
 ## Degree Centrality
-The degree of a node is how connected or influential a node is within the network, so degree centrality counts the number of direct connections a node has. In the previous image, Edith Pauline Smith has the highest degree centrality because she has the most immediate connections. To indicate this, we have made the size of node labels correspond to degree, which for Pauline, is the largest.
+The **degree** of a node indicates how connected or influential it is within the network, so **degree centrality** counts the number of direct connections a node has. In the previous image, Edith Pauline Smith has the highest degree centrality because she has the most immediate connections. To indicate this, we have made the size of node labels correspond to degree, which for Pauline, is the largest.
 
 ## Closeness Centrality
 Another simple metric is called closeness centrality, which measures which node has the shortest average path to the rest of the nodes in the network.
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/Slide9.JPG" alt="example of a simple network with subgroups" width="" height="" /></p>
 
-Unlike degree, which measures direct connections, closeness measures the proximity of a node to all the other nodes through average path. There are 8 total edges in the network above. If we wanted to calculate the closeness centrality of B, we'd count the shortest path from B to every other node, and take the average.
+Unlike degree, which measures __direct__ connections, closeness measures the proximity of a node to all the other nodes through average path. There are 8 total edges in the network above. If we wanted to calculate the closeness centrality of B, we'd count the shortest path from B to every other node, and take the average.
 
 <br>B -> A = 2
 <br>B -> C = 1
@@ -132,7 +131,7 @@ Unlike degree, which measures direct connections, closeness measures the proximi
 <br>B -> H = 0 (there are no paths to H from B!)
 <br>B -> I = 0 (there are no paths to I from B!)
 
-B has a closeness centrality of 1.875. (There are 15 total paths to every other node, and 8 total edges, so 15/8=1.875). So this node has more direct connections (2), but is less "close" in terms of the entire network (1.875).
+There are 15 total paths to every other node, and 8 total edges, so 15/8=1.875. B has a closeness centrality of 1.875. So this node has more direct connections (2), but is less "close" in terms of the entire network (1.875).
 
 ## Betweenness Centrality
 Degree and Closeness measure influence through connections and paths. Betweenness centrality indicates nodes that are "bridges" between different groups in a network. In other words, they glue pieces of a less dense network together, or they serve as a "go-between" for 2 distinct parts of the network.
@@ -147,11 +146,11 @@ This is the last metric to consider here, and it's essentially an algorithm that
 Whew! That's it.-->
 
 ## Check-in
-Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78691">2.Network Analysis</a> check in.
+Click to log in to Canvas and complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93981">2.Network Analysis</a> check in.
 
 # 3. Data Modeling for Visualizing a Network
 
-In order to tell the software (which we go over in the next section) how to recognize which nodes are connected, and by what paths, we are going to create a spreadsheet with "tidy data." Each column will have a variable, and each row will be an observation of that variable.
+In order to tell network analysis software how to recognize which nodes are connected, and by what paths, we are going to create a ****spreadsheet**** with "tidy data." "Tidy" means that each column will have a variable, and each row will be an observation of that variable (see <a href="https://vita.had.co.nz/papers/tidy-data.pdf">Wickham article</a>).
 
 The most important thing to remember when structuring data for a network analysis is this: what question are you trying to answer with a network analysis graph? Are you trying to see who someone is writing to in a letter? Are you trying to find out who has written the most letters and who has received the most? Are you trying to figure out who gets mentioned more times by one person than another? All of this matters. For instance, if we wanted to see where the letters were coming from and who is writing to whom, we could structure the data like this:
 
@@ -166,17 +165,17 @@ In this graph, each column heading (the variables) has one observation (the info
 Say, for instance, though, that we want to see all of the people mentioned in several letters to get a better idea of the network of people in the lives of the Smith family members and their friends. We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. 
 
 ## Check in
-Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/19899/quizzes/78687">3.Network Analysis Check-in</a>.
+Using a pencil and paper, sketch what you think the second example's graph might look like. Upload that sketch in Cavnas: <a href="https://muw.instructure.com/courses/22335/quizzes/93984">3.Network Analysis Check-in</a>.
 
 ## Cleaning Data
 
-Wouldn't it be nice if you could just copy and paste some names in a list into a spreadsheet, and click a button to make a nice network graph? IT NEVER WORKS THAT WAY! But that's part of the work of the digital scholar - is to structure data through a process of cleaning and testing it, in order to see if they can answer a question through visualization. Hadley Wickham, author of <a href="https://vita.had.co.nz/papers/tidy-data.pdf">"Tidy Data,"</a> says:
+Wouldn't it be nice if you could just copy and paste some names in a list into a spreadsheet, and click a button to make a nice network graph? IT NEVER WORKS THAT WAY! But that's part of the work of the digital scholar - is to structure data through a process of cleaning and testing it, in order to see if they can answer a question through visualization. <a href="https://vita.had.co.nz/papers/tidy-data.pdf">Wickham</a> says:
 
 > It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data (Dasu and Johnson 2003). Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
 
 Luckily, we have done a lot of that work already, and in this class, you won't be starting from scratch, but let's look at the labor that comes with cleaning and preparing data from the beginning.
 
-When you export tags from Transkribus, you get a folder that corresponds to each item, and in that folder, a spreadsheet of tags. 
+<!--When you export tags from Transkribus, you get a folder that corresponds to each item, and in that folder, a spreadsheet of tags. 
 
 p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/export-job-screenshot.png" alt="screenshot of a folder containing 346 folders" width="" height="" /></p>
 
@@ -188,28 +187,29 @@ These files, individually, do not help us answer our research question! So we ha
 
 <p><img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/combined-tags-screenshot.png" alt="screenshot of an Excel spreadsheet with combined data from the tags export" width="" height="" /></p>
 
-After combining these tags, we then add a layer of structure, so that our data will model the question we're asking: how can we use the letters to get an idea of the people in the Smiths' network? Using the <a href="https://docs.google.com/spreadsheets/d/1kB8T4NGGUat5enGtTouvO4K0SxhQAVLU/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">combined tags sheet</a>, we created the <a href="https://docs.google.com/spreadsheets/d/1pXrEV-Ny5WzDHgn2fyZhbSbetRR8oQGh/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">structured tags sheet</a>. Now we can start adding newly transcribed tags and cleaning them.
+After combining these tags, we then add a layer of structure, so that our data will model the question we're asking: how can we use the letters to get an idea of the people in the Smiths' network? Using the <a href="https://docs.google.com/spreadsheets/d/1kB8T4NGGUat5enGtTouvO4K0SxhQAVLU/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">combined tags sheet</a>, we created the <a href="https://docs.google.com/spreadsheets/d/1pXrEV-Ny5WzDHgn2fyZhbSbetRR8oQGh/edit?usp=sharing&ouid=108103280018141344202&rtpof=true&sd=true">structured tags sheet</a>. Now we can start adding newly transcribed tags and cleaning them.-->
 
-There are lots of ways to clean a spreadsheet - some complex and some simple. Here the recommended steps you can take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. With each step is a video that shows you how to do it!
+As we've created tags from our letters, we've given ourselves raw data to use for a network analysis...and now we have to go back through that data to make sure it's enough to help answer the question we're asking. For this module, we're going to work with the <a href="https://docs.google.com/spreadsheets/d/1N2Lc0NYDwTOVrhkHlQqUeQ20t6xnM02DOFUIDK_EWZg/edit?usp=sharing"> the tags in these letters</a>, between 1940 and 1945, to look at the network of correspondences during World War II.  
 
-1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>) *Hint: you have already done this step in the data prep assignment*
+There are lots of ways to clean a spreadsheet - some complex and some simple. Here the recommended steps you can take in order to get from names and data you tagged in the letters, to structured data that you can put into a network graph software. Be mindful of the outlines in our project management plan in working within a collaborative document together! Here are some steps to try:
+<!--1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>) *Hint: you have already done this step in the data prep assignment*
 2. Copy and past the names of the senders, recipients, and people from your letters to the "combined tags" sheet.
-3. Open the "structured tags" sheet and add your tags here in the appropriate columns.
-4. Now it's time to clean! I recommend doing these steps in a separate sheet, so you don't accidentally lose any data. Remember: Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>) by:  
-     * sorting names A-Z, and reconciling names that are extremely similar in spelling (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency.
-     * replacing _known_ names with their authority control names (i.e. "mother" with "Smith, Edith Pauline). We have identified some people by first name and context, and listed them in <a href="https://docs.google.com/spreadsheets/d/1YJeDKaSWJwYFjgCT7rvsQgo52mrRe7ibo9Uqh7BS9qE/edit?usp=sharing">this Google Sheet.</a> You can do this by Find and Replace (```ctrl+f```), but careful not to do blanket replacements! These tend to muck up your data. 
-     * de-duplicating names that appear more than once per letter, so you include only one representation of that person. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!). To do this, copy the column into another sheet, and click on ```Remove Duplicates``` under Data. Paste your de-duplicated list back into the rows associated with that letter, and delete the empty rows.
+3. Open the "structured tags" sheet and add your tags here in the appropriate columns. 
+I recommend doing these steps in a separate sheet, so you don't accidentally lose any data. Remember: Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>) by:  -->
+1. Sorting names A-Z, and reconciling names that are extremely similar in spelling (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency.
+2. Replacing _known_ names with their authority control names (i.e. "mother" with "Smith, Edith Pauline). We have identified some people by first name and context, and listed them in the tab in our tags spreadsheet. You can do this by Find and Replace (```ctrl+f```), but careful not to do blanket replacements! These tend to muck up your data, and make assumptions that aren't always founded. 
+3. De-duplicating names that appear more than once per letter, so you include only one representation of that person. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!). To do this, copy the column into another sheet, and click on ```Remove Duplicates``` under Data. Paste your de-duplicated list back into the rows associated with that letter, and delete the empty rows.
 
 <img src="https://github.com/hillaryAHR/LIB-201/blob/main/network-analysis-lecture-files/tag-cleaning.png" alt="spreadsheet screenshot of similar names, including Bro. Brealand and Bro Breland" width="" height="">
 
-If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!) who they are or are not. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum! This process will take a while and feel repetitive, but remember, that is normal. Give yourself time, and take plenty of breaks.
+Remember, this data is MESSY and THAT IS OK. We aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a>) who they are or are not. Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum! This process will take a while and feel repetitive, but remember, that is normal. Give yourself time, and take plenty of breaks.
 
 ## Check-in
-Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/19899/quizzes/78690>Check-in 3a.Network Analysis</a> here. For an example of detailing this process, see the <a href="https://docs.google.com/document/d/1YlNf0DtsnwPP9iQbpitkx7oGRia87Q4ratYDo6BkhYI/edit?usp=sharing">tags README</a> file.
+Write a detailed list of things that you did to clean up the data you exported. Did you de-duplicate names? Did you make assumptions for similar names? If so, what assumptions did you make? Write these down as precisely as you can so that if someone else were to follow your directions, they'd get similar results. Complete <a href=https://muw.instructure.com/courses/22335/quizzes/93993>Check-in 3a.Network Analysis</a> here. Feel free to use the notes in <a href="https://docs.google.com/document/d/1r6RjzZ8jpwQIHtYLuYOnG0omjhUie-Gtq0SRP1sCRro/edit?usp=sharing">our collaborative document</a> for this check-in.
 
 # 4. Software for visualizing a network analysis
 
-We have prepared our data (it won't be the last time!), so now it's time to see what that looks like in a network analysis software's visualization. There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> because it is free, has a relatively low accessibility bar, will work in your browser, and most importantly, will allow us to use the visualization to answer our questions: What does the  network of people in the lives of the Smith family members look like? Where are the connections and who facilitates them?
+Let's test the data we have prepared (and are continuing to clean) and see what that looks like in a network analysis software's visualization. There are several different softwares for visualizing a network, and they all serve different purposes. We are going to use <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> because it is free, has a relatively low accessibility bar, will work in your browser, and most importantly, will allow us to use the visualization to answer our questions: What does the network of people in the lives of the Smith family members look like? Where are the connections and who facilitates them?
 
 ## Preparing your visualization
 
@@ -256,10 +256,9 @@ Once you've verified the data and gone back to clean any leftover issues, it's t
 * Filter what appears in the network (Directed v. Undirected)
 * Drag nodes manually to see different connections among the network. Who is connected to whom? Who bridges the network?
 
-
 <a href="https://drive.google.com/file/d/1KN4oU02u0yg4QVd7XeJhUrS3G6l2W4WM/view">Here is a brief video of what this process looks like.</a>
 
 There are also Palladio's own Tutorials and FAQs for <a href="http://hdlab.stanford.edu/palladio/tutorials/data/">loading data</a> and <a href="http://hdlab.stanford.edu/palladio/tutorials/graph/">customizing a graph</a>. Both of which are helpful!
 
 ## Check-in
-Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/19899/quizzes/78693">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project.
+Eyeball test - what can you start to answer with the image you see? What looks like it needs fixing? Complete the last <a href="https://muw.instructure.com/courses/22335/quizzes/93985">4.Network Analysis check-in</a> here before turning in the link to your final visualization for this mini-project.
