@@ -2,9 +2,7 @@
 
 ![Tweet from @TerribleMaps of a blue and green map of the world, where the green land is "where more people live" than the blue ocean](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/terrible-maps.JPG)(Tweet from @TerribleMaps - https://twitter.com/TerribleMaps/status/1442190976525635593)
 
-Why make a map or a timeline? What's the point? What kinds of questions do these answer?
-
-Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical or temporal story?  More importantly (because the map and the timeline aren't the point in and of themselves!), wow can we **supplement those data with contextual information** that we can incorporate to tell a bigger story?
+Why make a map or a timeline? What's the point? What kinds of questions do these answer? This module will address the primary data necessary for these research projects, and the secondary data that gives them context. Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical OR temporal story?  More importantly (because the map and the timeline aren't the point in and of themselves!), wow can we **supplement those data with contextual information** that we can incorporate to tell a bigger story?
 
 ## Objectives
 - Identify further resources (primary and/or secondary sources) as context to support a spatial or temporal analysis
@@ -22,28 +20,25 @@ Think of the data we've already gathered in the Smith letters. Which data allow 
 - Create a free, public account with ArcGIS. Directions and links for doing so are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm#ESRI_SECTION1_D91DD2A709AE4FB68A9CC095F1688E05">here</a>.
 - Spreadsheet template for Timeline JS (by Knightlab). Step by step instructions are <a href="https://timeline.knightlab.com/#make">here</a>, and a video introduction is <a href="https://vimeo.com/143407878">here</a>.
 
-## Required Reading
+## Background Reading
 - White, Phil. (2014). "Story map blog" https://blogs.library.duke.edu/data/2014/10/28/story-maps/
 - Manuel Gimond, 2021, "Introduction to GIS," _Intro to GIS and Spatial Analysis_. https://mgimond.github.io/Spatial/introGIS.html
 - Shannon Mattern, 2015, "Gaps in the Map: Why we're mapping everything, and why not everything can, or should, be mapped." https://wordsinspace.net/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/ 
-
-## Further Reading (optional)
 - Lisa Charlotte Rost, 2021, "Which color scale to use when visualizing data" _Datawrapper_, https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
 - J. B. Harley, 1989, "Deconstructing the Map," _Cartographica_, 26(2), http://hdl.handle.net/2027/spo.4761530.0003.008
-
-Example Mapping projects
-- "Torn Apart/Separados," http://xpmethod.columbia.edu/torn-apart/volume/2/index 
-- "Native Land" https://native-land.ca/
-- Maps of the Starkville Civil Rights Project: https://starkvillecivilrights.msstate.edu/wordpress/the-place/ 
-- Olivia Ildefonso, 2021, "Top Mapping Mistakes," CUNY Academic Commons, https://digitalfellows.commons.gc.cuny.edu/2021/05/12/top-mapping-mistakes/
+- Example Mapping projects
+    - "Torn Apart/Separados," http://xpmethod.columbia.edu/torn-apart/volume/2/index 
+    - "Native Land" https://native-land.ca/
+    - Maps of the Starkville Civil Rights Project: https://starkvillecivilrights.msstate.edu/wordpress/the-place/ 
+    - Olivia Ildefonso, 2021, "Top Mapping Mistakes," CUNY Academic Commons, https://digitalfellows.commons.gc.cuny.edu/2021/05/12/top-mapping-mistakes/
 
 ## Acknowledgements
-- "Introduction to Mapping," Olivia Ildefonso. https://curriculum.dhinstitutes.org/workshops/mapping/
+- "Introduction to Mapping," Olivia Ildefonso. (Formerly DH Institutes Curricula; now available through <a href="https://app.dhrift.org/dynamic/?user=dhri-curriculum&repo=workshops&file=mapping&instUser=dhri-curriculum&instRepo=dhrift-site-template">DHRIFT</a>
 - Jessica Davila Greene, et al. "GIS and Historical Research" presentation. https://osf.io/b8wvn/
-- Screenshots from KnightLab's <a href="https://timeline.knightlab.com/#make">TimelineJS website</a>, and from <a href="https://starkvillecivilrights.msstate.edu/wordpress/">'A Shaky Truce': Starkville Civil Rights Struggles.</a>
+- Screenshots from KnightLab's <a href="https://timeline.knightlab.com/#make">TimelineJS website</a> and from <a href="https://starkvillecivilrights.msstate.edu/wordpress/">'A Shaky Truce': Starkville Civil Rights Struggles.</a>
 
 ## Ethical considerations
-Many maps, especially digital mapping projects, use a 2-dimensional representation (i.e. flat) of the earth, which is just a part of the inaccuracies of our world that maps represent. Like historical records, maps and timelines are incomplete choices that represent human experience of the world. As you create maps and/or timelines, consider these questions, adapted from <a href="https://curriculum.dhinstitutes.org/workshops/mapping/lessons/?page=4">DH Institutes Curriculum</a>, that critically examine the process of map-making:
+Many maps, especially digital mapping projects, use a 2-dimensional representation (i.e. flat) of the earth, which is just a part of the inaccuracies of our world that maps represent. Like historical records, maps and timelines are inherently incomplete choices that represent human experiences of the world. As you create maps and/or timelines, consider these questions, adapted from the <a href="https://app.dhrift.org/dynamic/?user=dhri-curriculum&repo=workshops&file=mapping&page=8&instUser=dhri-curriculum&instRepo=dhrift-site-template">DHRIFT Mapping workshop </a>, that critically examine the process of map-making:
 * <b>How are you collecting data?</b> Are you gathering data, or using existing data? What are the limitations of either, and what choices lead to this decision (convenience? access? most appropriate?)
 * <b>What is missing from your data?</b> If you collect population information, which populations are you including/excluding? What boundaries (county? state? neighborhood?) define the map?
 * <b>What symbols represent data?</b> Be aware of the colors and symbols you use to represent information. These choices can affect how others interpret your map! 
@@ -75,10 +70,10 @@ Secondary sources are usually interpretive, aren't usually published, posted, or
 * ...and more!
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78692">1a.Research data check-in</a> on primary and secondary sources. 
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93990">1a.Research data check-in</a> on primary and secondary sources. 
 
 ## Finding Resources
-Now that we've figured out the differences between primary and secondary sources, you will use this information to choose sources in different places. For our upcoming projects, we will look in several places, including, but not limited to:
+Now that we've figured out the differences between primary and secondary sources, finding these sources is our next step, and that often happens in different places. For our upcoming projects, we may use resources such as:
 * Websites (i.e. blogs, news sites, .orgs, .govs, etc.). 
     * Blogs can show you someone else's perspective on a related topic, link to other sources, etc.
     * You can find reports and data on government or organizational websites like the <a href="https://archives.gov">National Archives and Records Administration</a> or <a href="https://www.mshistorynow.mdah.ms.gov/">Mississippi History Now</a>, from the Mississippi Department of Archives and History.
@@ -95,7 +90,7 @@ To help with research topics, resources, and relevant websites, MUW faculty and 
 
 ### Check-in
 
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78688">1b.Research data check-in</a> on finding resources here.
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93986">1b.Research data check-in</a> on finding resources here.
 
 ## Evaluating resources:
 
@@ -103,24 +98,24 @@ By now, you know that not everything you find on the internet is worth using! As
 
 * <b>Relevance.</b> Determine a source's relevance to your topic by asking if it will help you get to where you need to go. It might help influence the direction of your research, but that's ok!
 * <b>Origin of the source.</b> Where is this coming from? What is the domain name? Does the resource <u>cite any references</u>?
-* <b>Purpose of the source.</b> What is this source trying to accomplish? Is it selling a product? Is it to share information/educate? Is it to persuade? Consider if there is an ulterior motive (especially if you're searching a company or corporation's website).
+* <b>Purpose of the source.</b> What is this source trying to accomplish? Is it selling a product? Is it to inform/educate? Is it to persuade? Consider if there is an ulterior motive (especially if you're searching a company or corporation's website).
 
 ## Citing and Reusing sources
-1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use.
-2. When you find media you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permissions to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
-3. When reusing images, video, etc., be sure the links you use are supported by the platform you're sharing them on. Not all image and video files will work in all places (for example, see the <a href="https://timeline.knightlab.com/docs/media-types.html">supported media types used in TimelineJS</a>)! Additionally, be sure you're copying the correct URL if using an external image. 
+1. We are always taught to cite our sources, so expect the sources you use to do the same! Look for citation information within a source, and cite the sources you use. For online publications, a specific style is not as important as consistency and accessibility.
+2. When you find **media** you want to reuse (e.g. an image, a screen shot, etc.), make sure you have the permissions to do so. Since we are creating maps and timelines using open, online tools, ask yourself if the artist/creator would mind you posting their stuff, and if so, ALWAYS give them recognition! 
 
-**Tip:** permissions to share images can come in the form of usage rights licenses, creative commons licenses, or public domain designations. Look for these notes next to an image in its repository. You can search for images with usage rights in many places, like
-* <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>
-* <a href="https://search.creativecommons.org/">Creative Commons</a>
-* <a href="https://flickr.com/search/">Flickr</a>
-* Library digital repositories or archives (like <a href="https://msdiglib.org/">MS Digital Library</a>, <a href="https://digitalcollections.nypl.org/">NYPL</a>, and more!)
-* <a href="https://images.google.com/">Google Images</a> (use the usage rights search feature to filter the results)
-* <a href="https://www.gettyimages.com/">Getty Images</a>
+* **Tip:** permissions to share images can come in the form of usage rights licenses, creative commons licenses, or public domain designations. Look for these notes next to an image in its repository. You can search for images with usage rights in many places, like:
+    * <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>
+    * <a href="https://search.creativecommons.org/">Creative Commons</a>
+    * <a href="https://flickr.com/search/">Flickr</a>
+    * Library digital repositories or archives (like <a href="https://msdiglib.org/">MS Digital Library</a>, <a href="https://digitalcollections.nypl.org/">NYPL</a>, and more!)
+    * <a href="https://images.google.com/">Google Images</a> (use the usage rights search feature to filter the results)
+    * <a href="https://www.gettyimages.com/">Getty Images</a>
 
+3. When reusing images, video, etc., be sure the links and files you use are supported by the platform you're sharing them on. Not all image and video files will work in all places (for example, see the <a href="https://timeline.knightlab.com/docs/media-types.html">supported media types used in TimelineJS</a>)! Additionally, be sure you're copying the correct URL if using an image's URL (i.e. some images will have a thumbnail file, which is usually a lesser-quality image than the original or use copy). 
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/78683">1c.Research data check-in</a> on choosing resources for research here.
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93983">1c.Research data check-in</a> on choosing resources for research here.
 
 # 2. Building a Timeline
 
