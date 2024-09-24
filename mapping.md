@@ -1,6 +1,7 @@
 # Mapping Spatial and Temporal data
 
-![Tweet from @TerribleMaps of a blue and green map of the world, where the green land is "where more people live" than the blue ocean](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/terrible-maps.JPG)(Tweet from @TerribleMaps - https://twitter.com/TerribleMaps/status/1442190976525635593)
+![Tweet from @TerribleMaps of a blue and green map of the world, where the green land is "where more people live" than the blue ocean](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/terrible-maps.JPG)
+(Tweet from @TerribleMaps - https://twitter.com/TerribleMaps/status/1442190976525635593)
 
 Why make a map or a timeline? What's the point? What kinds of questions do these answer? This module will address the primary data necessary for these research projects, and the secondary data that gives them context. Think of the data we've already gathered in the Smith letters. Which data allow themselves to tell a geographical OR temporal story?  More importantly (because the map and the timeline aren't the point in and of themselves!), wow can we **supplement those data with contextual information** that we can incorporate to tell a bigger story?
 
@@ -26,11 +27,12 @@ Why make a map or a timeline? What's the point? What kinds of questions do these
 - Shannon Mattern, 2015, "Gaps in the Map: Why we're mapping everything, and why not everything can, or should, be mapped." https://wordsinspace.net/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/ 
 - Lisa Charlotte Rost, 2021, "Which color scale to use when visualizing data" _Datawrapper_, https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
 - J. B. Harley, 1989, "Deconstructing the Map," _Cartographica_, 26(2), http://hdl.handle.net/2027/spo.4761530.0003.008
+- Olivia Ildefonso, 2021, "Top Mapping Mistakes," CUNY Academic Commons, https://digitalfellows.commons.gc.cuny.edu/2021/05/12/top-mapping-mistakes/
 - Example Mapping projects
     - "Torn Apart/Separados," http://xpmethod.columbia.edu/torn-apart/volume/2/index 
     - "Native Land" https://native-land.ca/
     - Maps of the Starkville Civil Rights Project: https://starkvillecivilrights.msstate.edu/wordpress/the-place/ 
-    - Olivia Ildefonso, 2021, "Top Mapping Mistakes," CUNY Academic Commons, https://digitalfellows.commons.gc.cuny.edu/2021/05/12/top-mapping-mistakes/
+
 
 ## Acknowledgements
 - "Introduction to Mapping," Olivia Ildefonso. (Formerly DH Institutes Curricula; now available through <a href="https://app.dhrift.org/dynamic/?user=dhri-curriculum&repo=workshops&file=mapping&instUser=dhri-curriculum&instRepo=dhrift-site-template">DHRIFT</a>
