@@ -33,9 +33,8 @@ Why make a map or a timeline? What's the point? What kinds of questions do these
     - "Native Land" https://native-land.ca/
     - Maps of the Starkville Civil Rights Project: https://starkvillecivilrights.msstate.edu/wordpress/the-place/ 
 
-
 ## Acknowledgements
-- "Introduction to Mapping," Olivia Ildefonso. (Formerly DH Institutes Curricula; now available through <a href="https://app.dhrift.org/dynamic/?user=dhri-curriculum&repo=workshops&file=mapping&instUser=dhri-curriculum&instRepo=dhrift-site-template">DHRIFT</a>
+- "Introduction to Mapping," Olivia Ildefonso. Formerly DH Institutes Curricula; now available through <a href="https://app.dhrift.org/dynamic/?user=dhri-curriculum&repo=workshops&file=mapping&instUser=dhri-curriculum&instRepo=dhrift-site-template">DHRIFT</a>
 - Jessica Davila Greene, et al. "GIS and Historical Research" presentation. https://osf.io/b8wvn/
 - Screenshots from KnightLab's <a href="https://timeline.knightlab.com/#make">TimelineJS website</a> and from <a href="https://starkvillecivilrights.msstate.edu/wordpress/">'A Shaky Truce': Starkville Civil Rights Struggles.</a>
 
@@ -133,7 +132,7 @@ Before we get into tools, let's remember that we are telling a story about a pro
 * Are there themes, ranges of time, or other patterns that I want to highlight among my sources? (Example: you can group things by local v. national event, or tag certain events with a theme, like "desegregation" or "New Deal.")
 
 ### Check-in
-Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/19899/quizzes/78699">2.Timeline check-in</a>.
+Answer the questions above, and provide a sketch of your timeline in the <a href="https://muw.instructure.com/courses/22335/quizzes/94005">2.Timeline check-in</a>.
 
 ## Timeline tools: TimelineJS
 Like any project, there are a myriad of tools that you can use. Palladio (our tool for the Network Analysis), for instance, has timeline options! For this lesson, we are going to use <a href="https://timeline.knightlab.com/">TimelineJS</a>, a template-based story-telling tool developed by Northwestern University's Knight Lab.
@@ -168,7 +167,7 @@ Shape files can come in a variety of formats. Most of the time, they will includ
 * .csv
 
 ### Check-in
-Complete <a href="https://muw.instructure.com/courses/19899/quizzes/81902">3a.Mapping checkin</a> here before going to the next section.
+Complete <a href="https://muw.instructure.com/courses/22335/quizzes/94000">3a.Mapping checkin</a> here before going to the next section.
 
 ## Finding map data
 
@@ -208,7 +207,7 @@ To give you an idea of what it might take to gather the data you'd like to exami
     ![Screenshot of a message from Google verifying I'm not a robot](https://github.com/hillaryAHR/LIB-201/blob/main/mapping-images/captcha.JPG)
 
 ### Check-in
-Complete the <a href="https://muw.instructure.com/courses/19899/quizzes/81901">3b.Mapping check-in</a> here. (Only LIB 201 students need to complete this.)
+Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93999">3b.Mapping check-in</a> here. (Only LIB 201 students need to complete this.)
 
 ## Mapping tools
 There are a range of different mapping tools that require a range of experience and can cost $0 or require a monthly subscription! We are going to use <a  href="https://www.arcgis.com/home/index.html">ArcGIS online</a>, which is free (with some limits), and doesn't require any additional downloads. Before we begin, create a free, public account. (Instructions for signing up are <a href="https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm">here</a>.)
