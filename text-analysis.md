@@ -221,5 +221,8 @@ In the previous section, we talked about removing words with "little value" (poo
 In different tools, you will separate these words differently (spaces, commas, or line breaks). 
 
 ## Check-in
-Use this check-in to sketch out your main point of inquiry using text analysis. This will require more thinking through your text analysis assignment, so be sure to think through possible options, and you might even read through more letters before completing this.
-LIB 201 students will complete <a href="https://muw.instructure.com/courses/19899/quizzes/78696">3.Text Analysis check-in here</a>.
+Run your content set (or part of your content set, as the case may be) through the n-gram analysis. Looking at the results, think through what steps you'll need to take in the cleaning configuration process. Justify these steps, and remember to keep your main point of inquiry (aka your "research question") at the forefront of this process. Complete the <a href="https://muw.instructure.com/courses/22335/quizzes/93980">3.Text Analysis check-in.</a> by answering the questions:
+1. What parts of the letters might be affected if you change the text with the cleaning configurations (e.g. text correction, removing certain characters, changing document sections)? 
+2. What stopwords might you add or remove?
+3. Are there replacements you can see that need to be made?
+4. What tool will you use next to continue analyzing the text from here?
