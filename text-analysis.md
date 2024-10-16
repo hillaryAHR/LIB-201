@@ -18,6 +18,7 @@ In addition to the important things to analyze in the letters, like places, peop
 - Caulfield, Jack. <a href="https://www.scribbr.com/methodology/textual-analysis/">"A quick guide to textual analysis,"</a> _Scribbr.com_, 2020.
 - Underwood, Ted. <a href="https://tedunderwood.com/2016/08/01/a-more-intimate-scale-of-distant-reading/">"A More Intimate Scale of Distant Reading,"</a> _The Stone and the Shell_, 2016. 
 - Sculley and Pasanek, <a href="https://login.libprxy.muw.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=hlh&AN=37562266&site=eds-live&scope=site">"Meaning and mining: the impact of implicit assumptions in data mining for the humanities"</a> _Literary and Linguistic Computing, 23_(4), 2008. *This link will take you to MUW Library databases. Sign in with your 950# if you are off campus!*
+- Hill, Jane H. "Language in White Racism: An Overview," from _The Everyday Language of White Racism_ (2008). Available in the <a href="https://mlp.ent.sirsi.net/client/en_US/muw/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:3310806/ada?rt=CKEY|||CKEY|||false">HCC library holdings,</a> but *will be uploaded in Canvas for LIB 201 students*
 <!-- section from Drucker's Intro to DH or Ketchley's dh101 course guide? -->
 <!--check-in/reading response for the readings?-->
 
@@ -29,7 +30,7 @@ Optional tools
 - <a href="https://voyant-tools.org/">Voyant</a> - web-based text analysis app
 - <a href="https://mimno.infosci.cornell.edu/jsLDA/">jsLDA: In-browser Topic Modeling</a>  
 - <a href="https://databasic.io/en/">dataBASIC</a> - various web-based text analysis tools for different purposes
-- <a href="https://hannah627.github.io/sentiment-analysis"> - Sentiment Analysis tool for historic texts, created by Hannah Burrows</a>
+- <a href="https://hannah627.github.io/sentiment-analysis">Sentiment Analysis tool for historic texts,</a> - created by Hannah Burrows
 
 ### Acknowledgements
 - "Distant Reading, Modeling, and Concordances," Brandon Locke and Thomas Padilla, NEH Textual Data Institute, 2018
