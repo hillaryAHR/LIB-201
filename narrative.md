@@ -13,12 +13,14 @@ Objectives:
 2. [Markdown](#1-markdown) 
 3. [Creating a narrative project](#3-creating-a-narrative-project)
 
-## Required Tools/Reading
+## Required Tools
 - Text Editor software (comes installed on most computers). Suggestions for text editors:  
     - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and works within your browser (by typing the period ```.``` in a github markdown page). To install, visit https://code.visualstudio.com/. Click "Download for..." your operating system.
     - PC users: Notepad comes already installed
     - Mac users: TextEdit comes already installed
     - If you are using an already-installed text editor, preview your markdown using something like https://dillinger.io/ or https://markdownlivepreview.com/
+
+## Suggested reading
 - Brannock, Jennifer. <a href="http://misslib.org/Resources/Documents/MLarchive/ML2009Summer.pdf">"Creating an Exhibit in Special Collections and Using it to Promote Collections and Educate Users,"</a> _Mississippi Libraries 73_(2), 2009. pp. 32-34.
 - Ovadia, Steven. (2014). <a href="https://academicworks.cuny.edu/lg_pubs/7/">"Markdown for Librarians and Academics,"</a> _Behavioral and Social Sciences Librarian 33_, pp. 120-124.
 - <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">"Markdown Syntax"</a> - A cheatsheet for markdown syntax 
@@ -30,13 +32,13 @@ Objectives:
 
 # 1. Writing for the Web
 
-Web-based narratives are great for sharing a variety of content in an open, public space. Let's remember some important things when writing for an online environment.
+Web-based narratives are great for sharing a variety of content in an open, public space. It's important to remember your audience is public, and to be inclusive of all of this "public," but what does that mean? Let's remember some important things when writing for an online environment.
 
 1. <b>Web-based writing should be concise.</b> Say what you're going to say with simple, direct sentences. This doesn't mean it has to be short (although that's preferred), but it does warrant a more economic attitude toward words.
 
 2. <b>Web-based writing should be accessible.</b> Web-based writing should strive to be accessible for any and all users, no matter their intellectual levels or physical abilities. In other words, you're writing for a diverse public, and not a singular or specifically-trained audience. Remember the **POUR** acronym when you're writing your narrative:
 
-- **Perceivable** - the user can engage with elements through various senses (primarily sound and sight, or touch for haptic screens). Example: If you include an image, thoroughly describe that image with alternative text. If you include a video, make sure it has captions. The image below contains a good example of thorough alt text:
+- **Perceivable** - the user can engage with elements through various senses (primarily sound and sight, or touch for haptic screens). Example: If you include an image, thoroughly describe that image with alternative text. If you include a video, make sure it has captions. If you use colorful fonts, make sure the background colors have enough contrast to ensure visibility. The image below contains a good example of descriptive alt text:
 
 ![Screenshot of a letter from "Women's Stories, W.E.B. Du Bois Papers Data" via https://sway.office.com/jnwIZkrNCACbONhA with alternative text highlighted](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/alternative-text.JPG)
 
@@ -57,7 +59,7 @@ Web-based narratives are great for sharing a variety of content in an open, publ
 3. <b>Web-based writing should use web elements.</b> Purposefully break up your text with formatting elements (see next section), use hyperlinks where appropriate (to cite, to refer to other content, etc.), and include media to enhance and solidify the meaning of something.
 
 ### Check-in: 
-Check your accesibility comprehension with the <a href="https://muw.instructure.com/courses/19899/quizzes/78701">1.Narrative check-in</a>.
+Check your accesibility comprehension with the <a href="https://muw.instructure.com/courses/22335/quizzes/93998">1.Narrative check-in</a>.
 
 # 2. Markdown
 
@@ -134,7 +136,7 @@ For more help using HTML, there are free, online tutorials available through <a 
 -->
 
 ### Check-in
-Create a markdown file (save it as .md) in your text editor that uses elements above for the <a href="https://muw.instructure.com/courses/19899/quizzes/78695">2.Narrative check-in</a>.
+Create a markdown file (save it as .md) in your text editor that uses elements above for the <a href="https://muw.instructure.com/courses/22335/quizzes/93994">2.Narrative check-in</a>.
 
 # 3. Creating a narrative project
 
@@ -182,6 +184,6 @@ For this check-in, you will need to do some brainstorming. Be ready to:
 - Brainstorm a list of the items (letters, metadata, projects, research, etc.) you'd like to focus on
 - sketch an outline of the narrative itself in 3-5 bullet points
 
-After you've considered these things, click here to complete the <a href="https://muw.instructure.com/courses/19899/discussion_topics/199943">3.Narrative check-in</a>.
+After you've considered these things, click here to complete the <a href="https://muw.instructure.com/courses/22335/quizzes/98536">3.Narrative check-in</a>.
 
 
