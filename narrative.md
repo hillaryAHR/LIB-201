@@ -16,6 +16,7 @@ Objectives:
 ## Required Tools
 - Text Editor software (comes installed on most computers). Suggestions for text editors:  
     - Visual Studio Code is the Microsoft Office equivalent of Notepad or TextEdit. VS Code is more user friendly, and works within your browser (by typing the period ```.``` in a github markdown page). To install, visit https://code.visualstudio.com/. Click "Download for..." your operating system.
+    - Chromebook users: Install a text editor from Google Apps (such as https://texteditor.co/ or a markdown viewer and editor, such as https://thumbsdb.herokuapp.com/markdown/)
     - PC users: Notepad comes already installed
     - Mac users: TextEdit comes already installed
     - If you are using an already-installed text editor, preview your markdown using something like https://dillinger.io/ or https://markdownlivepreview.com/
