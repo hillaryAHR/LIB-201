@@ -9,9 +9,9 @@ Many people, ourselves included, have a lot of assumptions about the rural commu
 
 This project explores the lives of a Southern white family through three themes:
 
-1. [Wartime Correspondence](##a-network-of-wartime-correspondence)
-2. [Domestic Lives of Women in Pittsboro](##domestic-lives-of-women-in-pittsboro)
-3. [Race Relations in Pittsboro](##race-relations-in-pittsboro)
+1. [Wartime Correspondence](#a-network-of-wartime-correspondence)
+2. [Domestic Lives of Women in Pittsboro](#domestic-lives-of-women-in-pittsboro)
+3. [Race Relations in Pittsboro](#race-relations-in-pittsboro)
 
 ## A Network of Wartime Correspondence
 <!--This is where AMELIA will tie in your subtopic 1 to the main idea-->
