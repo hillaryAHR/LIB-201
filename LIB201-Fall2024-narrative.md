@@ -61,7 +61,7 @@ The Smith Family in Pittsboro both fit and broke the mold of assumptions about p
 
 The racism they learned in Pittsboro experienced cracks in the veneer. When the Smith children- Bernice, Christine, Martha, and Sonny Boy- left Pittsboro for new experiences, for the most part, they gained said new experiences. Christine, in one of her letters, writes to her mother about her life in Panama in 1947, writing, “Mixed throughout the crowd are people varying in color from light tan to black. Before you become unduly shocked, remember that this country belongs to these people, and we are the invaders. I have almost become accustomed to being waited on by polite, clean-looking negroes behind the counters.” In other words, Christine challenges her and her mother's idea that the idea that people of color are, as a group, in a lower caste. She distinguishes them from how she had viewed them in other places and in her past.
 
-![Christine Faust's letter to her mother] (https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-19470708-christine.png)
+![Christine Faust's letter to her mother](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-19470708-christine.png)
 
 
 <!--Placeholder for referencing letters with racial language and/or changes over time-->
