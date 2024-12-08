@@ -13,22 +13,28 @@ This project explores the lives of a Southern white family through three themes:
 2. [Domestic Lives of Women in Pittsboro](##domestic-lives-of-women-in-pittsboro)
 3. [Race Relations in Pittsboro](##race-relations-in-pittsboro)
 
+*Disclaimer*
+This project contains discussion of offensive and harmful language to specific groups, particularly minority ethnic groups in the United States. The use of this language does not reflect the beliefs of the researchers. While we acknowledge the potential of this language to harm, we also want to maintain the historical authenticity of the documents enclosed, and hope that future researchers can learn about the origins of white racism from the language used here. 
+
 ## A Network of Wartime Correspondence
 <!--This is where AMELIA will tie in your subtopic 1 to the main idea-->
-The community of Pittsboro is a tight-knit rural community in Mississippi, and the place which the Smith family calls *home*. Despite its small size, through the family's letters we can learn about the menagerie of characters who inhabit this town and catch a glimpse of insight into their lifestyles. The unique closeness of this town's inhabitants fosters strong relationships that are unaffected by distance. Even if the Smiths are far away in foreign lands, they never fail to inquire about what's happening back home in Pittsboro.
+The community of Pittsboro is a tight-knit rural community in Mississippi, and the place which the Smith family calls *home*. Despite its small size, through the family's letters we can learn about the menagerie of characters who inhabit this town and catch a glimpse of insight into their lifestyles. The unique closeness of this town's inhabitants fosters strong relationships that are unaffected by distance. Even if the Smiths are far away in foreign lands, they never fail to inquire about what's happening back home in Pittsboro. 
 
-*Talk about the different types of characters we learn about through the letters and what local attitudes we can surmise through them.*
+<!--since the network we have is centered around WWII correspondence, focus less on the picture of the town, and talk more about what the network is telling us about a family's communication to and from Pittsboro during a time when they're apart-->
+
 <!--placeholder for images of network analysis-->
-*Talk about size of the town*
+
 <!--placeholder for map of pittsboro-->
 *Provide examples of letters from places like Europe, Panama, Memphis, etc. Specifically ones inquiring about Pittsboro.*
 <!--placeholder identifying where different Smith members were at different times-->
 
 ## Domestic Lives of Women in Pittsboro
 <!--This is where ALY will tie in your subtopic 2 to the main idea-->
-The women within the Smith family, while all being raised in the same rural environment, demonstrated both conformity and push-back from traditional gender norms in the 20th century. The matriarch of the family, Pauline Smith, took the traditional route expected of her generation by marrying young and staying in Pittsboro, MS where she raised a family and remained the central hub for her children after they had moved away. While Pauline did not receive more than a high school education, she was very intelligent and loved to learn (Conversation with Dr. Bridget Pieschel, November 16, 2024). Examples of this can be seen in her quality and quantity of writing in the many letters she sent to her children that were full of details about her and others' lives both inside and out of Pittsboro. 
+The women within the Smith family, while all being raised in the same rural environment, demonstrated both conformity and push-back from traditional gender norms in the 20th century. The matriarch of the family, Pauline Smith, took the traditional route expected of her generation by marrying young and staying in Pittsboro, MS where she raised a family and remained the central hub for her children after they had moved away. While Pauline did not receive more than a high school education, she was very intelligent and loved to learn (Conversation with Dr. Bridget Pieschel, November 16, 2024). Examples of this can be seen in her quality and quantity of writing in the many letters she sent to her children that were full of details about her and others' lives both inside and out of Pittsboro. While Pauline did not have a traditional jobs, she still found ways to help the family financially. Most commonly, Pauline would utilize her sewing skills and either sell the clothing she made, or she would trade something like a dress for help doing laundry or other housework. The money she made through doing this and similar work would go towards things such as paying the taxes on her home. 
 
-<!--let's break up all of this text somehow. Since you talk about Pauline most in the 1st paragraph, it might be a good idea to bring up how she also was economically savvy, using sewing as a cottage industry to pay taxes on her home-->
+Here is a timline that was made in our course that dives deeper into the topic of sewing and how it was used in the Smith Family:
+
+[![Sewing Timeline:](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/sewing-timeline.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JiWyoF-zOMfZM55ObK8vIdYtxRmzxOuH0yjqIC3CQgM&font=Default&lang=en&initial_zoom=2&height=650)
 
 However, within the next generation of Smith-family women, roles began to look slightly different than they had as Pauline's three girls - Bernice, Christine, and Martha - entered adulthood. While they all were given the same upbringing in Pittboro, they had opportunities that their mother did not, such as graduating from Mississippi State College for Women (now known as Mississippi University for Women). 
 
@@ -46,10 +52,8 @@ Lastly, Martha graduated with a degree in Home Economics which she used to teach
 
 While none of the sisters' lives in the Smith Family looked quite the same, they all pushed the boundaries of their small-town upbringing and lifestyle by pursuing higher education, maintaining careers, and traveling outside of Mississippi. Some married and had children, while others did not, and some chose not to move back to Pittsboro, instead creating a new home of their own. They were still women of their time by the roles they played within their families as homemakers, but they also were well-educated, working women, who decided their futures themselves and did not let societal expectations dictate their lives.
 
-Other timelines, like the one on applicances, were made during our semester in the course. They look at other topics related to the domestic sphere such as sewing and the cost of groceries during WWII. These timelines can be accessed here:
+Another timeline, like the ones on sewing and applicance, was made that looks at another topic related to the domestic sphere; the cost of groceries during WWII. The timeline can be accessed here:
 [![Groceries Timeline:](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/groceries-timeline.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Xeq1X3P7toQC1SOoFFGpoElj3iWatA9ZBXAkfuTqVfo&font=Default&lang=en&initial_zoom=2&height=650)
-
-[![Sewing Timeline:](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/sewing-timeline.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JiWyoF-zOMfZM55ObK8vIdYtxRmzxOuH0yjqIC3CQgM&font=Default&lang=en&initial_zoom=2&height=650)
 
 
 ## Race relations in Pittsboro
@@ -61,7 +65,7 @@ The Smith Family in Pittsboro both fit and broke the mold of assumptions about p
 
 The racism they learned in Pittsboro experienced cracks in the veneer. When the Smith children- Bernice, Christine, Martha, and Sonny Boy- left Pittsboro for new experiences, for the most part, they gained said new experiences. Christine, in one of her letters, writes to her mother about her life in Panama in 1947, writing, “Mixed throughout the crowd are people varying in color from light tan to black. Before you become unduly shocked, remember that this country belongs to these people, and we are the invaders. I have almost become accustomed to being waited on by polite, clean-looking negroes behind the counters.” In other words, Christine challenges her and her mother's idea that the idea that people of color are, as a group, in a lower caste. She distinguishes them from how she had viewed them in other places and in her past.
 
-![Christine Faust's letter to her mother](https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-19470708-christine.png)
+![Christine Faust's letter to her mother] (https://github.com/hillaryAHR/LIB-201/blob/main/narrative-images/from-19470708-christine.png)
 
 
 <!--Placeholder for referencing letters with racial language and/or changes over time-->
